@@ -1,0 +1,1013 @@
+[
+    {
+        "token1": "WMATIC",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 0,
+        "lp": "0xc4e595acDD7d12feC385E5dA5D43160e8A0bAC0E",
+        "icon1": "wmatic",
+        "icon2": "eth",
+        "pid": 0,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 1,
+        "lp": "0x34965ba0ac2451A34a0471F04CCa3F990b8dea27",
+        "icon1": "usdc",
+        "icon2": "eth",
+        "pid": 1,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "USDT",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 2,
+        "lp": "0xc2755915a85C6f6c1C0F3a86ac8C058F11Caa9C9",
+        "icon1": "eth",
+        "icon2": "usdt",
+        "pid": 2,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "BTC",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 3,
+        "lp": "0xE62Ec2e799305E0D367b0Cc3ee2CdA135bF89816",
+        "icon1": "btc",
+        "icon2": "eth",
+        "pid": 3,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "DAI",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 5,
+        "lp": "0x6FF62bfb8c12109E8000935A6De54daD83a4f39f",
+        "icon1": "eth",
+        "icon2": "dai",
+        "pid": 4,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "AAVE",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 6,
+        "lp": "0x2813D43463C374a680f235c428FB1D7f08dE0B69",
+        "icon1": "eth",
+        "icon2": "aave",
+        "pid": 5,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "LINK",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 7,
+        "lp": "0x74D23F21F780CA26B47Db16B0504F2e3832b9321",
+        "icon1": "link",
+        "icon2": "eth",
+        "pid": 6,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "USDT",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 8,
+        "lp": "0x4B1F1e2435A9C96f7330FAea190Ef6A7C8D70001",
+        "icon1": "usdc",
+        "icon2": "usdt",
+        "pid": 7,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "CRV",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 9,
+        "lp": "0x396E655C309676cAF0acf4607a868e0CDed876dB",
+        "icon1": "crv",
+        "icon2": "eth",
+        "pid": 8,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "SNX",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 10,
+        "lp": "0x116Ff0d1Caa91a6b94276b3471f33dbeB52073E7",
+        "icon1": "snx",
+        "icon2": "eth",
+        "pid": 9,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "DAI",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 11,
+        "lp": "0xCD578F016888B57F1b1e3f887f392F0159E26747",
+        "icon1": "usdc",
+        "icon2": "dai",
+        "pid": 10,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "WMATIC",
+        "token2": "WOOFY",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 13,
+        "lp": "0x211F8e61113eDAf00cf37A804B0bA721875Ef560",
+        "icon1": "wmatic",
+        "icon2": "woofy",
+        "pid": 11,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "FRAX",
+        "token2": "USDC",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 14,
+        "lp": "0x9e20a8d3501BF96EDA8e69b96DD84840058a1cB0",
+        "icon1": "frax",
+        "icon2": "usdc",
+        "pid": 12,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "FRAX",
+        "token2": "FXS",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 15,
+        "lp": "0xd53a56AE0f48c9a03660cd36c2E4ae20493a1Eca",
+        "icon1": "frax",
+        "icon2": "fxs",
+        "pid": 13,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "GRT",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 16,
+        "lp": "0x1cedA73C034218255F50eF8a2c282E6B4c301d60",
+        "icon1": "grt",
+        "icon2": "eth",
+        "pid": 14,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "WFIL",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 18,
+        "lp": "0x21Ef14B5580a852477ef31E7Ea9373485bF50377",
+        "icon1": "eth",
+        "icon2": "wfil",
+        "pid": 15,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "DHT",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 19,
+        "lp": "0xa375d23a751124359568f3a22576528bD1C8C3e3",
+        "icon1": "eth",
+        "icon2": "dht",
+        "pid": 16,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "PAUTO",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 21,
+        "lp": "0xd8d51Ea2eDcA2c2ea15A053A5730f559d79a1570",
+        "icon1": "usdc",
+        "icon2": "pauto",
+        "pid": 17,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "dTOP",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 22,
+        "lp": "0x25E8BbC103842F0dAD2465f4e04cB8d44fB787bc",
+        "icon1": "dtop",
+        "icon2": "eth",
+        "pid": 18,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "BIFI",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 23,
+        "lp": "0x180237bd326d5245D0898336F54b3c8012c5c62f",
+        "icon1": "usdc",
+        "icon2": "bifi",
+        "pid": 19,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "BTC",
+        "token2": "ibBTC",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 24,
+        "lp": "0x8F8e95Ff4B4c5E354ccB005c6B0278492D7B5907",
+        "icon1": "btc",
+        "icon2": "ibbtc",
+        "pid": 20,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "ADDY",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 27,
+        "lp": "0x5fcb390B4422f4FF7940c23618A62BF5f69658A8",
+        "icon1": "usdc",
+        "icon2": "addy",
+        "pid": 21,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "polyBUNNY",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 28,
+        "lp": "0xc5666D43F06C073E869bce02407569f578B2072D",
+        "icon1": "polybunny",
+        "icon2": "eth",
+        "pid": 22,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "ARPA",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 29,
+        "lp": "0x590F5E967d73eA06DAE9aED2788108DCF52dA269",
+        "icon1": "eth",
+        "icon2": "arpa",
+        "pid": 23,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "MVI",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 30,
+        "lp": "0x4642dAFC5281bA5a8D35B2896e0D925b23C6883C",
+        "icon1": "eth",
+        "icon2": "mvi",
+        "pid": 24,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "WMATIC",
+        "token2": "$DG",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 31,
+        "lp": "0xfb659315E36aE39917014DA60F362b600e8Cd0cA",
+        "icon1": "wmatic",
+        "icon2": "$dg",
+        "pid": 25,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "AXS",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 33,
+        "lp": "0x7BA331A8b360F4c31E6014aBdd6852F92Fb21557",
+        "icon1": "axs",
+        "icon2": "eth",
+        "pid": 26,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "MANA",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 34,
+        "lp": "0xc48AE82ca34C63887b975F20ABA91a38f2a900B8",
+        "icon1": "eth",
+        "icon2": "mana",
+        "pid": 27,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "UMA",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 35,
+        "lp": "0x6be10c5C7178af8C49997D07d6A5444C15e58170",
+        "icon1": "uma",
+        "icon2": "eth",
+        "pid": 28,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "WMATIC",
+        "token2": "COMBO",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 36,
+        "lp": "0xCb60e17Ea720eF331446e434BE5DE5f35FAe8bc8",
+        "icon1": "wmatic",
+        "icon2": "combo",
+        "pid": 29,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "PICKLE",
+        "token2": "DAI",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 37,
+        "lp": "0x57602582eB5e82a197baE4E8b6B80E39abFC94EB",
+        "icon1": "pickle",
+        "icon2": "dai",
+        "pid": 30,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "AVAX",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 38,
+        "lp": "0x1274De0DE2e9D9b1d0E06313c0E5EdD01CC335eF",
+        "icon1": "avax",
+        "icon2": "eth",
+        "pid": 31,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "WMATIC",
+        "token2": "GHST",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 39,
+        "lp": "0xf69e93771F11AECd8E554aA165C3Fe7fd811530c",
+        "icon1": "wmatic",
+        "icon2": "ghst",
+        "pid": 32,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "token1": "FOX",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 40,
+        "lp": "0x93eF615F1DdD27d0E141Ad7192623A5c45e8f200",
+        "icon1": "fox",
+        "icon2": "eth",
+        "pid": 33,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "polysushiswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/MiniChefV2.abi",
+            "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F"
+        }
+    },
+    {
+        "address": "0x7Ca29F0DB5Db8b88B332Aa1d67a2e89DfeC85E7E",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "WMATIC",
+        "token2": "QUICK",
+        "victimPID": 0,
+        "lp": "0x019ba0325f1988213D448b3472fA1cf8D07618d7",
+        "icon1": "wmatic",
+        "icon2": "quick",
+        "pid": 34,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x7Ca29F0DB5Db8b88B332Aa1d67a2e89DfeC85E7E"
+        }
+    },
+    {
+        "address": "0x8FF56b5325446aAe6EfBf006a4C1D88e4935a914",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "WMATIC",
+        "token2": "ETH",
+        "victimPID": 1,
+        "lp": "0xadbF1854e5883eB8aa7BAf50705338739e558E5b",
+        "icon1": "wmatic",
+        "icon2": "eth",
+        "pid": 35,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x8FF56b5325446aAe6EfBf006a4C1D88e4935a914"
+        }
+    },
+    {
+        "address": "0xB26bfcD52D997211C13aE4C35E82ced65AF32A02",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "ETH",
+        "token2": "USDT",
+        "victimPID": 2,
+        "lp": "0xF6422B997c7F54D1c6a6e103bcb1499EeA0a7046",
+        "icon1": "eth",
+        "icon2": "usdt",
+        "pid": 36,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0xB26bfcD52D997211C13aE4C35E82ced65AF32A02"
+        }
+    },
+    {
+        "address": "0x070D182EB7E9C3972664C959CE58C5fC6219A7ad",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "BTC",
+        "token2": "ETH",
+        "victimPID": 3,
+        "lp": "0xdC9232E2Df177d7a12FdFf6EcBAb114E2231198D",
+        "icon1": "btc",
+        "icon2": "eth",
+        "pid": 37,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x070D182EB7E9C3972664C959CE58C5fC6219A7ad"
+        }
+    },
+    {
+        "address": "0x8cFad56Eb742BA8CAEA813e47779E9C38f27cA6E",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "USDC",
+        "token2": "QUICK",
+        "victimPID": 4,
+        "lp": "0x1F1E4c845183EF6d50E9609F16f6f9cAE43BC9Cb",
+        "icon1": "usdc",
+        "icon2": "quick",
+        "pid": 38,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x8cFad56Eb742BA8CAEA813e47779E9C38f27cA6E"
+        }
+    },
+    {
+        "address": "0xb11856d3Aea0203e50B8520479C6332daBcF3f82",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "ETH",
+        "token2": "WISE",
+        "victimPID": 5,
+        "lp": "0xDF8139e9BebecAdEcF48BeC8c8064CcEfB618e2b",
+        "icon1": "eth",
+        "icon2": "wise",
+        "pid": 39,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0xb11856d3Aea0203e50B8520479C6332daBcF3f82"
+        }
+    },
+    {
+        "address": "0x4A73218eF2e820987c59F838906A82455F42D98b",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "USDC",
+        "token2": "ETH",
+        "victimPID": 6,
+        "lp": "0x853Ee4b2A13f8a742d64C8F088bE7bA2131f670d",
+        "icon1": "usdc",
+        "icon2": "eth",
+        "pid": 40,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x4A73218eF2e820987c59F838906A82455F42D98b"
+        }
+    },
+    {
+        "address": "0x97D69E23DF7BBB01F9eA78b5651cb6ad125D6d9a",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "LINK",
+        "token2": "ETH",
+        "victimPID": 7,
+        "lp": "0x5cA6CA6c3709E1E6CFe74a50Cf6B2B6BA2Dadd67",
+        "icon1": "link",
+        "icon2": "eth",
+        "pid": 41,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x97D69E23DF7BBB01F9eA78b5651cb6ad125D6d9a"
+        }
+    },
+    {
+        "address": "0x855b8dCA0Dfe3A1AC474f5A25792d4326580E06A",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "AGA",
+        "token2": "AGAr",
+        "victimPID": 8,
+        "lp": "0x1E794AFed730e913d2A514033773C90DC0B59C54",
+        "icon1": "aga",
+        "icon2": "agar",
+        "pid": 42,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x855b8dCA0Dfe3A1AC474f5A25792d4326580E06A"
+        }
+    },
+    {
+        "address": "0xD1C762861AAe85dF2e586a668A793AAfF820932b",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "ETH",
+        "token2": "QUICK",
+        "victimPID": 9,
+        "lp": "0x1Bd06B96dd42AdA85fDd0795f3B4A79DB914ADD5",
+        "icon1": "eth",
+        "icon2": "quick",
+        "pid": 43,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0xD1C762861AAe85dF2e586a668A793AAfF820932b"
+        }
+    },
+    {
+        "address": "0x3CB338519AD8AE7cbaCb4A1035052BE6DA7e0b59",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "QUICK",
+        "token2": "WISE",
+        "victimPID": 10,
+        "lp": "0xda5A2D1c048e58E2D1E6B55D840c2e2294caeEC4",
+        "icon1": "quick",
+        "icon2": "wise",
+        "pid": 44,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x3CB338519AD8AE7cbaCb4A1035052BE6DA7e0b59"
+        }
+    },
+    {
+        "address": "0x225d8F0f5FB5D66cA7C0a27da85F462689c47C23",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "ETH",
+        "token2": "SX",
+        "victimPID": 11,
+        "lp": "0x3Ff616172e87429A037e4B42843FB11bF0C945bB",
+        "icon1": "eth",
+        "icon2": "sx",
+        "pid": 45,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x225d8F0f5FB5D66cA7C0a27da85F462689c47C23"
+        }
+    },
+    {
+        "address": "0x8917692e0Bdb47AF1D36837805E141Ed79065dFC",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "ETH",
+        "token2": "CEL",
+        "victimPID": 12,
+        "lp": "0xEAA5E4620373d9Ded4DCB9267F46fcfc6698c867",
+        "icon1": "eth",
+        "icon2": "cel",
+        "pid": 46,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x8917692e0Bdb47AF1D36837805E141Ed79065dFC"
+        }
+    },
+    {
+        "address": "0x9Aac6390103C1Af774220aaB85bEB49Ae2DF11d6",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "USDC",
+        "token2": "maUSDC",
+        "victimPID": 13,
+        "lp": "0x7295304b10740BA8e037826787d3e9386FD99925",
+        "icon1": "usdc",
+        "icon2": "mausdc",
+        "pid": 47,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x9Aac6390103C1Af774220aaB85bEB49Ae2DF11d6"
+        }
+    },
+    {
+        "address": "0x785AaCd49c1Aa3ca573F2a32Bb90030A205b8147",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "ETH",
+        "token2": "DAI",
+        "victimPID": 14,
+        "lp": "0x4A35582a710E1F4b2030A3F826DA20BfB6703C09",
+        "icon1": "eth",
+        "icon2": "dai",
+        "pid": 48,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x785AaCd49c1Aa3ca573F2a32Bb90030A205b8147"
+        }
+    },
+    {
+        "address": "0x573bb5CCC26222d8108EdaCFcC7F7cb9e388Af10",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "ETH",
+        "token2": "AAVE",
+        "victimPID": 15,
+        "lp": "0x90bc3E68Ba8393a3Bf2D79309365089975341a43",
+        "icon1": "eth",
+        "icon2": "aave",
+        "pid": 49,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x573bb5CCC26222d8108EdaCFcC7F7cb9e388Af10"
+        }
+    },
+    {
+        "address": "0xa859D2C37A49bbd5992E39FCC37a7dD56aE130E7",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "FRAX",
+        "token2": "QUICK",
+        "victimPID": 16,
+        "lp": "0x2Aa7a18cEAbf2eF893D2f7c0145cC45e6f10b223",
+        "icon1": "frax",
+        "icon2": "quick",
+        "pid": 50,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0xa859D2C37A49bbd5992E39FCC37a7dD56aE130E7"
+        }
+    },
+    {
+        "address": "0x2f5c21A2084fE66E3CEDe1dfd048Ea00b3dcf1f4",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "FRAX",
+        "token2": "FXS",
+        "victimPID": 17,
+        "lp": "0x4756FF6A714AB0a2c69a566E548B59c72eB26725",
+        "icon1": "frax",
+        "icon2": "fxs",
+        "pid": 51,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x2f5c21A2084fE66E3CEDe1dfd048Ea00b3dcf1f4"
+        }
+    },
+    {
+        "address": "0xf563fAe71bDAcDD370098CeCff14dbe2c9518a6b",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "DEFI5",
+        "token2": "ETH",
+        "victimPID": 18,
+        "lp": "0x654E651b658f784406125400cf648588CB9773e8",
+        "icon1": "defi5",
+        "icon2": "eth",
+        "pid": 52,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0xf563fAe71bDAcDD370098CeCff14dbe2c9518a6b"
+        }
+    },
+    {
+        "address": "0x251d9837a13F38F3Fe629ce2304fa00710176222",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "USDC",
+        "token2": "USDT",
+        "victimPID": 19,
+        "lp": "0x2cF7252e74036d1Da831d11089D326296e64a728",
+        "icon1": "usdc",
+        "icon2": "usdt",
+        "pid": 53,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x251d9837a13F38F3Fe629ce2304fa00710176222"
+        }
+    },
+    {
+        "address": "0x8f2ac4EC8982bF1699a6EeD696e204FA2ccD5D91",
+        "tokenPrefix": "QuickSwap Lp",
+        "token1": "BTC",
+        "token2": "USDC",
+        "victimPID": 20,
+        "lp": "0xF6a637525402643B0654a54bEAd2Cb9A83C8B498",
+        "icon1": "btc",
+        "icon2": "usdc",
+        "pid": 54,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "quickswap",
+        "network": "Polygon",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x8f2ac4EC8982bF1699a6EeD696e204FA2ccD5D91"
+        }
+    }
+]

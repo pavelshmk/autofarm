@@ -1,0 +1,974 @@
+[
+    {
+        "token1": "HBTC",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 8,
+        "lp": "0xFBe7b74623e4be82279027a286fa3A5b5280F77c",
+        "icon1": "hbtc",
+        "icon2": "usdt",
+        "pid": 0,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 9,
+        "lp": "0x78C90d3f8A64474982417cDB490E840c01E516D4",
+        "icon1": "eth",
+        "icon2": "usdt",
+        "pid": 1,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "HUSD",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 10,
+        "lp": "0xdff86B408284dff30A7CAD7688fEdB465734501C",
+        "icon1": "husd",
+        "icon2": "usdt",
+        "pid": 2,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "HLTC",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 11,
+        "lp": "0x060B4bfcE16D15A943ec83C56C87940613e162eB",
+        "icon1": "usdt",
+        "icon2": "hltc",
+        "pid": 3,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "HBCH",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 12,
+        "lp": "0x1f0eC8e0096e145f2bf2Cb4950Ed7b52d1cbd35f",
+        "icon1": "usdt",
+        "icon2": "hbch",
+        "pid": 4,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "HDOT",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 13,
+        "lp": "0x5484ab0DF3E51187f83F7f6b1a13f7a7Ee98C368",
+        "icon1": "hdot",
+        "icon2": "usdt",
+        "pid": 5,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "HFIL",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 14,
+        "lp": "0x600072aF0470d9Ed1D83885D03d17368943fF22A",
+        "icon1": "usdt",
+        "icon2": "hfil",
+        "pid": 6,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "MDX",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 16,
+        "lp": "0x615E6285c5944540fd8bd921c9c8c56739Fd1E13",
+        "icon1": "mdx",
+        "icon2": "usdt",
+        "pid": 7,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "HT",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 17,
+        "lp": "0x499B6E03749B4bAF95F9E70EeD5355b138EA6C31",
+        "icon1": "ht",
+        "icon2": "usdt",
+        "pid": 8,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "HPT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 18,
+        "lp": "0xdE5b574925EE475c41b99a7591EC43E92dCD2fc1",
+        "icon1": "usdt",
+        "icon2": "hpt",
+        "pid": 9,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "MDX",
+        "token2": "HT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 19,
+        "lp": "0x6Dd2993B50b365c707718b0807fC4e344c072eC2",
+        "icon1": "mdx",
+        "icon2": "ht",
+        "pid": 10,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "HUSD",
+        "token2": "FILDA",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 21,
+        "lp": "0x7964E55BBdAECdE48c2C8ef86E433eD47FEcB519",
+        "icon1": "husd",
+        "icon2": "filda",
+        "pid": 11,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "LHB",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 22,
+        "lp": "0x023f375a51Af8645D7446ba5942BAeDc53B0582D",
+        "icon1": "lhb",
+        "icon2": "usdt",
+        "pid": 12,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "AAVE",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 23,
+        "lp": "0xfAfeAafeFc5F92F22415506e78D9AB1E33C03257",
+        "icon1": "aave",
+        "icon2": "usdt",
+        "pid": 13,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "SNX",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 24,
+        "lp": "0xc7A4C808a29fc8Cd3A8a6848f7F18bED9924C692",
+        "icon1": "snx",
+        "icon2": "usdt",
+        "pid": 14,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "UNI",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 25,
+        "lp": "0x84455d880af684eb29997B82832dd71EF29c1354",
+        "icon1": "uni",
+        "icon2": "usdt",
+        "pid": 15,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "LINK",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 26,
+        "lp": "0x52a342015BAa2496A90A9bB6069D7692564132e6",
+        "icon1": "link",
+        "icon2": "usdt",
+        "pid": 16,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "BAL",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 27,
+        "lp": "0xB6A77CDD31771A4F439622aA36b20cb53C19868C",
+        "icon1": "bal",
+        "icon2": "usdt",
+        "pid": 17,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "YFI",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 28,
+        "lp": "0x64Af3564C6D6BEc5883358c560211EcD0f8d1AC7",
+        "icon1": "usdt",
+        "icon2": "yfi",
+        "pid": 18,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "HT",
+        "token2": "HBTC",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 29,
+        "lp": "0xBFff969A85e355eE0851b019Dba1e87C7780F40d",
+        "icon1": "ht",
+        "icon2": "hbtc",
+        "pid": 19,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "HT",
+        "token2": "ETH",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 30,
+        "lp": "0x53E458aD1CFEB9582736db6BdE9aF89948e3bc3d",
+        "icon1": "ht",
+        "icon2": "eth",
+        "pid": 20,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "HBTC",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 31,
+        "lp": "0x793c2a814e23EE38aB46412Be65E94Fe47D4B397",
+        "icon1": "eth",
+        "icon2": "hbtc",
+        "pid": 21,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "MDX",
+        "token2": "HBTC",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 32,
+        "lp": "0x2Fb4bE0F2785bD6009A383f3290CC97A4e3bD46B",
+        "icon1": "mdx",
+        "icon2": "hbtc",
+        "pid": 22,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "MDX",
+        "token2": "ETH",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 33,
+        "lp": "0xb55569893b397324c0d048c9709F40c23445540E",
+        "icon1": "mdx",
+        "icon2": "eth",
+        "pid": 23,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "MKR",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 34,
+        "lp": "0x18B83288237fCe1c44f332Ed6Ca851584f66E2a4",
+        "icon1": "mkr",
+        "icon2": "usdt",
+        "pid": 24,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "COMP",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 35,
+        "lp": "0x78B3c20c56D4B3Ef133FD4f00a0293c10b380E40",
+        "icon1": "usdt",
+        "icon2": "comp",
+        "pid": 25,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "MDX",
+        "token2": "HBCH",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 39,
+        "lp": "0x1986309EC4f23883EA4a407C38ca161C526B9A08",
+        "icon1": "mdx",
+        "icon2": "hbch",
+        "pid": 26,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "MDX",
+        "token2": "HLTC",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 40,
+        "lp": "0xC717De167C41456a2ae8579B557a6bEEc2553019",
+        "icon1": "mdx",
+        "icon2": "hltc",
+        "pid": 27,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "CON",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 54,
+        "lp": "0xBEBb01B1B126683BfE67607B24a803754De9A6fE",
+        "icon1": "usdt",
+        "icon2": "con",
+        "pid": 28,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "HUSD",
+        "token2": "DEP",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 55,
+        "lp": "0xC95239fE2bAAbDbd15Eec26805156E219b12FfcE",
+        "icon1": "husd",
+        "icon2": "dep",
+        "pid": 29,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "SOVI",
+        "token2": "HT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 56,
+        "lp": "0x16565e04813bd675A117ca87564480f1EA743E0D",
+        "icon1": "sovi",
+        "icon2": "ht",
+        "pid": 30,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "EDC",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 59,
+        "lp": "0xfEd180001c0A85a0B6d4559be5cE63330e7Ca9b6",
+        "icon1": "edc",
+        "icon2": "usdt",
+        "pid": 31,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "MDX",
+        "token2": "FEI",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 60,
+        "lp": "0x27f1bEA6fc230D5162Bb42B2C97CAe896cc397db",
+        "icon1": "mdx",
+        "icon2": "fei",
+        "pid": 32,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "TRIBE",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 61,
+        "lp": "0xC126C78D743C9E938Cfc77025B14f1aCE443F9bB",
+        "icon1": "tribe",
+        "icon2": "usdt",
+        "pid": 33,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "DOGE",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 63,
+        "lp": "0xAd67Dd95926bD56094908917Fa44529933B6F831",
+        "icon1": "doge",
+        "icon2": "usdt",
+        "pid": 34,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "EOS",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 64,
+        "lp": "0x4bB6826E1Db889AE30657FA19E1a80D9aE332da5",
+        "icon1": "usdt",
+        "icon2": "eos",
+        "pid": 35,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "ADA",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 65,
+        "lp": "0x8d0e7BcF9Cf3B5B3Face8C440b3c71c6Cd5dbBC9",
+        "icon1": "ada",
+        "icon2": "usdt",
+        "pid": 36,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "XRP",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 66,
+        "lp": "0x9dbe263c92faaEC700980089E73d2764614Ed8EE",
+        "icon1": "xrp",
+        "icon2": "usdt",
+        "pid": 37,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "MDX",
+        "token2": "BOO",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 70,
+        "lp": "0x6E9DBfab4D3623F529359921d16877D329183220",
+        "icon1": "mdx",
+        "icon2": "boo",
+        "pid": 38,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "SHIB",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 71,
+        "lp": "0x1c85dD9E5FeE4c40786bd6278255D977946A364b",
+        "icon1": "usdt",
+        "icon2": "shib",
+        "pid": 39,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "WOO",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 73,
+        "lp": "0x0E54e4087f8f650BFc230c9c22D9cEFd7a4e5321",
+        "icon1": "woo",
+        "icon2": "usdt",
+        "pid": 40,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "USDC-HECO",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 80,
+        "lp": "0xf37DE9f4E1a0A58F839DbA868e76B5779109c2a4",
+        "icon1": "usdc-heco",
+        "icon2": "usdt",
+        "pid": 41,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "DAI-HECO",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 81,
+        "lp": "0x7072BC4ffA57d310191aA6bc7E93bC5e5FceB738",
+        "icon1": "dai-heco",
+        "icon2": "usdt",
+        "pid": 42,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "HT",
+        "token2": "HTMoon",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 82,
+        "lp": "0xF095f1793Ca534C14Bb28F9A71A813065672B2DF",
+        "icon1": "ht",
+        "icon2": "htmoon",
+        "pid": 43,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "NULS",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 83,
+        "lp": "0x6443099559de3204Bb3a4b128B641F8879df838F",
+        "icon1": "usdt",
+        "icon2": "nuls",
+        "pid": 44,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "BIFI",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 84,
+        "lp": "0xe6F7b06ad8B93A21f78E4aCD59f2dac169eA704B",
+        "icon1": "bifi",
+        "icon2": "usdt",
+        "pid": 45,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "HT",
+        "token2": "HBELT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 86,
+        "lp": "0x2B2D172117358F6306F34A8Cfebc3D2FAC7c2E38",
+        "icon1": "ht",
+        "icon2": "hbelt",
+        "pid": 46,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "BNB",
+        "token2": "HT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 87,
+        "lp": "0x76BD054865C8B43d3433B51B29C7fC87F88BB1d2",
+        "icon1": "bnb",
+        "icon2": "ht",
+        "pid": 47,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "HUSD",
+        "token2": "O3",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 89,
+        "lp": "0xa83925175646527cD5f3c0FfE0F39a6C32aF32fb",
+        "icon1": "husd",
+        "icon2": "o3",
+        "pid": 48,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "WAR",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 90,
+        "lp": "0x2eAB1e47Bf1660bf6De9437BD061db666111e041",
+        "icon1": "war",
+        "icon2": "usdt",
+        "pid": 49,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "COW",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 91,
+        "lp": "0x3F57530bDBA9bCD703c8Ba75c57CF7dE52014036",
+        "icon1": "cow",
+        "icon2": "usdt",
+        "pid": 50,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "DMT",
+        "token2": "DUSD",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 94,
+        "lp": "0xD35308E4e99E9C60AcCf926173c009EF7e4fd3f4",
+        "icon1": "dmt",
+        "icon2": "dusd",
+        "pid": 51,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "DUSD",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 95,
+        "lp": "0xD8A55007D958232D10Ef466bE8Ab07CdD967cE41",
+        "icon1": "dusd",
+        "icon2": "usdt",
+        "pid": 52,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    },
+    {
+        "token1": "hCFX",
+        "token2": "USDT",
+        "tokenPrefix": "HSwap LP",
+        "victimPID": 96,
+        "lp": "0xe4Cc6A68dAB4725Fb132777814dFe178a5edfe66",
+        "icon1": "hcfx",
+        "icon2": "usdt",
+        "pid": 53,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "mdx",
+        "network": "HECO",
+        "migrate": {
+            "abi": "./abi/HecoPool.abi",
+            "address": "0xFB03e11D93632D97a8981158A632Dd5986F5E909"
+        }
+    }
+]

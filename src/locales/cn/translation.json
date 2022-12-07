@@ -1,0 +1,68 @@
+{
+  "header": {
+    "changeNetwork": "header::changeNetwork",
+    "disconnect": "header::changedisc",
+    "connectWallet": "header::connectWallet",
+    "slippageTolerance": "header::slippageTolerance"
+  },
+  "main": {
+    "lpStaked": "main::lpStaked",
+    "oldApy": "main::oldApy",
+    "newApy": "main::newApy",
+    "lpEarned": "main::lpEarned",
+    "tvl": "main::tvl",
+    "apy": "main::apy",
+    "searchPlaceholder": "main::searchPlaceholder",
+    "victimTvl": "main::victimTvl",
+    "networkTitle": "main::networkTitle",
+    "selectNetwork": "main::selectNetwork",
+    "protocolTitle": "main::protocolTitle",
+    "allProtocols": "main::allProtocols",
+    "sortByTitle": "main::sortByTitle",
+    "stakedOnly": "main::stakedOnly",
+    "yourOtherPools": "main::yourOtherPools",
+    "noLiquidity": "main::noLiquidity",
+    "activePools": "main::activePools",
+    "noResults": "main::noResults",
+    "toTop": "main::toTop"
+  },
+  "modals": {
+    "connect": {
+      "title": "modals::connect::title",
+      "noWallet": "modals::connect::noWallet",
+      "getWallet": "modals::connect::getWallet"
+    },
+    "migrate": {
+      "staked": "modals::migrate::staked",
+      "oldAPY": "modals::migrate::oldAPY",
+      "migrate": "modals::migrate::migrate",
+      "newAPY": "modals::migrate::newAPY",
+      "migrationProcess": "modals::migrate::migrationProcess",
+      "unstakeLP": "modals::migrate::unstakeLP",
+      "approveLP": "modals::migrate::approveLP",
+      "stakeLP": "modals::migrate::stakeLP",
+      "migrateBtn": "modals::migrate::migrateBtn"
+    },
+    "token": {
+      "stakeSw": "modals::token::stakeSw",
+      "unstakeSw": "modals::token::unstakeSw",
+      "staked": "modals::token::staked",
+      "earned": "modals::token::earned",
+      "apy": "modals::token::apy",
+      "unstakeTtl": "modals::token::unstakeTtl",
+      "stakeTtl": "modals::token::stakeTtl",
+      "balance": "modals::token::balance",
+      "unstakeBtn": "modals::token::unstakeBtn",
+      "approveBtn": "modals::token::approveBtn",
+      "stakeBtn": "modals::token::stakeBtn"
+    }
+  },
+  "btn": {
+    "pending": "btn::pending",
+    "migrationComplete": "btn::migrationComplete",
+    "failed": "btn::failed",
+    "success": "btn::success",
+    "done": "Done",
+    "retry":"Retry"
+  }
+}

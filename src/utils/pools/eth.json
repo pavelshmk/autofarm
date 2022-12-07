@@ -1,0 +1,4868 @@
+[
+    {
+        "token1": "ALCX",
+        "token2": "",
+        "tokenPrefix": "Alchemix Token",
+        "victimPID": 1,
+        "lp": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+        "icon1": "alcx",
+        "icon2": "",
+        "pid": 0,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "alchemix",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/Alchemix.abi",
+            "address": "0xAB8e74017a8Cc7c15FFcCd726603790d26d7DeCa"
+        }
+    },
+    {
+        "token1": "saddlealETH",
+        "token2": "",
+        "tokenPrefix": "Saddle LP",
+        "victimPID": 6,
+        "lp": "0xc9da65931ABf0Ed1b74Ce5ad8c041C4220940368",
+        "icon1": "saddlealeth",
+        "icon2": "",
+        "pid": 1,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "alchemix",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/Alchemix.abi",
+            "address": "0xAB8e74017a8Cc7c15FFcCd726603790d26d7DeCa"
+        }
+    },
+    {
+        "token1": "crvUSDT",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 1,
+        "lp": "0x9fC689CCaDa600B6DF723D9E47D84d76664a1F23",
+        "icon1": "crvusdt",
+        "icon2": "",
+        "pid": 2,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "yCRV",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 2,
+        "lp": "0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8",
+        "icon1": "ycrv",
+        "icon2": "",
+        "pid": 3,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvYBUSD",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 3,
+        "lp": "0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B",
+        "icon1": "crvybusd",
+        "icon2": "",
+        "pid": 4,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvSUSD",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 4,
+        "lp": "0xC25a3A3b969415c80451098fa907EC722572917F",
+        "icon1": "crvsusd",
+        "icon2": "",
+        "pid": 5,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvPAX",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 5,
+        "lp": "0xD905e2eaeBe188fc92179b6350807D8bd91Db0D8",
+        "icon1": "crvpax",
+        "icon2": "",
+        "pid": 6,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvRENWBTC",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 6,
+        "lp": "0x49849C98ae39Fff122806C06791Fa73784FB3675",
+        "icon1": "crvrenwbtc",
+        "icon2": "",
+        "pid": 7,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvRenWSBTC",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 7,
+        "lp": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
+        "icon1": "crvrenwsbtc",
+        "icon2": "",
+        "pid": 8,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvHBTC",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 8,
+        "lp": "0xb19059ebb43466C323583928285a49f558E572Fd",
+        "icon1": "crvhbtc",
+        "icon2": "",
+        "pid": 9,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "3Crv",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 9,
+        "lp": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+        "icon1": "3crv",
+        "icon2": "",
+        "pid": 10,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvGUSD",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 10,
+        "lp": "0xD2967f45c4f384DEEa880F807Be904762a3DeA07",
+        "icon1": "crvgusd",
+        "icon2": "",
+        "pid": 11,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvHUSD",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 11,
+        "lp": "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858",
+        "icon1": "crvhusd",
+        "icon2": "",
+        "pid": 12,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvUSDK",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 12,
+        "lp": "0x97E2768e8E73511cA874545DC5Ff8067eB19B787",
+        "icon1": "crvusdk",
+        "icon2": "",
+        "pid": 13,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvUSDN",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 13,
+        "lp": "0x4f3E8F405CF5aFC05D68142F3783bDfE13811522",
+        "icon1": "crvusdn",
+        "icon2": "",
+        "pid": 14,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvMUSD",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 14,
+        "lp": "0x1AEf73d49Dedc4b1778d0706583995958Dc862e6",
+        "icon1": "crvmusd",
+        "icon2": "",
+        "pid": 15,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvRSV",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 15,
+        "lp": "0xC2Ee6b0334C261ED60C72f6054450b61B8f18E35",
+        "icon1": "crvrsv",
+        "icon2": "",
+        "pid": 16,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvTBTC",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 16,
+        "lp": "0x64eda51d3Ad40D56b9dFc5554E06F94e1Dd786Fd",
+        "icon1": "crvtbtc",
+        "icon2": "",
+        "pid": 17,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvDUSD",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 17,
+        "lp": "0x3a664Ab939FD8482048609f652f9a0B0677337B9",
+        "icon1": "crvdusd",
+        "icon2": "",
+        "pid": 18,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvPBTC",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 18,
+        "lp": "0xDE5331AC4B3630f94853Ff322B66407e0D6331E8",
+        "icon1": "crvpbtc",
+        "icon2": "",
+        "pid": 19,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvBBTC",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 19,
+        "lp": "0x410e3E86ef427e30B9235497143881f717d93c2A",
+        "icon1": "crvbbtc",
+        "icon2": "",
+        "pid": 20,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvOBTC",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 20,
+        "lp": "0x2fE94ea3d5d4a175184081439753DE15AeF9d614",
+        "icon1": "crvobtc",
+        "icon2": "",
+        "pid": 21,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvUST",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 21,
+        "lp": "0x94e131324b6054c0D789b190b2dAC504e4361b53",
+        "icon1": "crvust",
+        "icon2": "",
+        "pid": 22,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "a3CRV",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 24,
+        "lp": "0xFd2a8fA60Abd58Efe3EeE34dd494cD491dC14900",
+        "icon1": "a3crv",
+        "icon2": "",
+        "pid": 23,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvUSDP",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 28,
+        "lp": "0x7Eb40E450b9655f4B3cC4259BCC731c63ff55ae6",
+        "icon1": "crvusdp",
+        "icon2": "",
+        "pid": 24,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvIRONBANK",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 29,
+        "lp": "0x5282a4eF67D9C33135340fB3289cc1711c13638C",
+        "icon1": "crvironbank",
+        "icon2": "",
+        "pid": 25,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvTUSD",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 31,
+        "lp": "0xEcd5e75AFb02eFa118AF914515D6521aaBd189F1",
+        "icon1": "crvtusd",
+        "icon2": "",
+        "pid": 26,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvFRAX",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 32,
+        "lp": "0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B",
+        "icon1": "crvfrax",
+        "icon2": "",
+        "pid": 27,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvLUSD",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 33,
+        "lp": "0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA",
+        "icon1": "crvlusd",
+        "icon2": "",
+        "pid": 28,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvBUSD",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 34,
+        "lp": "0x4807862AA8b2bF68830e4C8dc86D0e9A998e085a",
+        "icon1": "crvbusd",
+        "icon2": "",
+        "pid": 29,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "curvAlUSD",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 36,
+        "lp": "0x43b4FdFD4Ff969587185cDB6f0BD875c5Fc83f8c",
+        "icon1": "curvalusd",
+        "icon2": "",
+        "pid": 30,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crvTricrypto",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 37,
+        "lp": "0xcA3d75aC011BF5aD07a98d02f18225F9bD9A6BDF",
+        "icon1": "crvtricrypto",
+        "icon2": "",
+        "pid": 31,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "crv3crypto",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 38,
+        "lp": "0xc4AD29ba4B3c580e6D59105FFf484999997675Ff",
+        "icon1": "crv3crypto",
+        "icon2": "",
+        "pid": 32,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "MIM-3LP3CRV-f",
+        "token2": "",
+        "tokenPrefix": "Curve.fi Lp",
+        "victimPID": 40,
+        "lp": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
+        "icon1": "mim-3lp3crv-f",
+        "icon2": "",
+        "pid": 33,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "convexmain",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xF403C135812408BFbE8713b5A23a04b3D48AAE31"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "",
+        "tokenPrefix": "Dodo LP (WETH - USDC)",
+        "victimPID": 0,
+        "lp": "0xc11eCCDee225d644f873776A68A02eCD8c015697",
+        "icon1": "eth",
+        "icon2": "",
+        "pid": 34,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "",
+        "tokenPrefix": "Dodo LP (WETH - USDC)",
+        "victimPID": 1,
+        "lp": "0x6a5Eb3555cBbD29016Ba6F6fFbCcEE28D57b2932",
+        "icon1": "usdc",
+        "icon2": "",
+        "pid": 35,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "LINK",
+        "token2": "",
+        "tokenPrefix": "Dodo LP (LINK - USDC)",
+        "victimPID": 2,
+        "lp": "0xF03F3d2FbeE37F92eC91aE927a8019CACef4b738",
+        "icon1": "link",
+        "icon2": "",
+        "pid": 36,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "",
+        "tokenPrefix": "Dodo LP (LINK - USDC)",
+        "victimPID": 3,
+        "lp": "0x0F769BC3EcbdA8e0d78280c88e31609E899A1F78",
+        "icon1": "usdc",
+        "icon2": "",
+        "pid": 37,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "SNX",
+        "token2": "",
+        "tokenPrefix": "Dodo LP (SNX - USDC)",
+        "victimPID": 6,
+        "lp": "0x5bd1b7d3930d7a5e8fd5aeec6b931C822C8Be14E",
+        "icon1": "snx",
+        "icon2": "",
+        "pid": 38,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "",
+        "tokenPrefix": "Dodo LP (SNX - USDC)",
+        "victimPID": 7,
+        "lp": "0x1b06A22b20362b4115388Ab8ca3ED0972230d78A",
+        "icon1": "usdc",
+        "icon2": "",
+        "pid": 39,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "COMP",
+        "token2": "",
+        "tokenPrefix": "Dodo LP (COMP - USDC)",
+        "victimPID": 8,
+        "lp": "0x53Cf4694B427FcEf9BB1F4438B68dF51A10228D0",
+        "icon1": "comp",
+        "icon2": "",
+        "pid": 40,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "",
+        "tokenPrefix": "Dodo LP (COMP - USDC)",
+        "victimPID": 9,
+        "lp": "0x51baf2656778ad6D67b19A419F91D38C3d0b87B6",
+        "icon1": "usdc",
+        "icon2": "",
+        "pid": 41,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "BTC",
+        "token2": "",
+        "tokenPrefix": "Dodo LP (WBTC - USDC)",
+        "victimPID": 10,
+        "lp": "0x2eC2A42901c761b295a9e6b95200cd0BdAa474Eb",
+        "icon1": "btc",
+        "icon2": "",
+        "pid": 42,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "",
+        "tokenPrefix": "Dodo LP (WBTC - USDC)",
+        "victimPID": 11,
+        "lp": "0x0cDb21e20597d753C90458f5eF2083f6695eb794",
+        "icon1": "usdc",
+        "icon2": "",
+        "pid": 43,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "YFI",
+        "token2": "",
+        "tokenPrefix": "Dodo LP (YFI - USDC)",
+        "victimPID": 12,
+        "lp": "0xE2852C572FC42C9e2ec03197deFa42c647e89291",
+        "icon1": "yfi",
+        "icon2": "",
+        "pid": 44,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "",
+        "tokenPrefix": "Dodo LP (YFI - USDC)",
+        "victimPID": 13,
+        "lp": "0xD9D0bd18DDfA753d0c88a060fFb60657bB0D7A07",
+        "icon1": "usdc",
+        "icon2": "",
+        "pid": 45,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "DODO",
+        "token2": "",
+        "tokenPrefix": "Dodo LP",
+        "victimPID": 14,
+        "lp": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd",
+        "icon1": "dodo",
+        "icon2": "",
+        "pid": 46,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "",
+        "tokenPrefix": "Dodo LP (USDT - USDC)",
+        "victimPID": 15,
+        "lp": "0x05a54b466F01510E92c02d3a180BaE83A64BAab8",
+        "icon1": "usdc",
+        "icon2": "",
+        "pid": 47,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "",
+        "tokenPrefix": "Dodo LP (USDT - USDC)",
+        "victimPID": 16,
+        "lp": "0x50b11247bF14eE5116C855CDe9963fa376FceC86",
+        "icon1": "usdt",
+        "icon2": "",
+        "pid": 48,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "",
+        "tokenPrefix": "Dodo LP (AAVE - USDC)",
+        "victimPID": 17,
+        "lp": "0x5840A9E733960f591856A5D13F6366658535bBE5",
+        "icon1": "usdc",
+        "icon2": "",
+        "pid": 49,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "AAVE",
+        "token2": "",
+        "tokenPrefix": "Dodo LP (AAVE - USDC)",
+        "victimPID": 18,
+        "lp": "0x30aD5B6D4e531591591113B49eae2FafbC2236D5",
+        "icon1": "aave",
+        "icon2": "",
+        "pid": 50,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "FEI",
+        "token2": "",
+        "tokenPrefix": "Dodo LP",
+        "victimPID": 20,
+        "lp": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+        "icon1": "fei",
+        "icon2": "",
+        "pid": 51,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "TRIBE",
+        "token2": "",
+        "tokenPrefix": "Dodo LP",
+        "victimPID": 21,
+        "lp": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
+        "icon1": "tribe",
+        "icon2": "",
+        "pid": 52,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "dodo",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/DODOMine.abi",
+            "address": "0xaeD7384F03844Af886b830862FF0a7AFce0a632C"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "ALCX",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 0,
+        "lp": "0xC3f279090a47e80990Fe3a9c30d24Cb117EF91a8",
+        "icon1": "eth",
+        "icon2": "alcx",
+        "pid": 53,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "CVX",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 1,
+        "lp": "0x05767d9EF41dC40689678fFca0608878fb3dE906",
+        "icon1": "cvx",
+        "icon2": "eth",
+        "pid": 54,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "cvxCRV",
+        "token2": "CRV",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 2,
+        "lp": "0x33F6DDAEa2a8a54062E021873bCaEE006CdF4007",
+        "icon1": "cvxcrv",
+        "icon2": "crv",
+        "pid": 55,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "PICKLE",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 3,
+        "lp": "0x269Db91Fc3c7fCC275C2E6f22e5552504512811c",
+        "icon1": "pickle",
+        "icon2": "eth",
+        "pid": 56,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "MPH",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 4,
+        "lp": "0xB2C29e311916a346304f83AA44527092D5bd4f0F",
+        "icon1": "mph",
+        "icon2": "eth",
+        "pid": 57,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "YGG",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 6,
+        "lp": "0x99B42F2B49C395D2a77D973f6009aBb5d67dA343",
+        "icon1": "ygg",
+        "icon2": "eth",
+        "pid": 58,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "TRU",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 8,
+        "lp": "0xfCEAAf9792139BF714a694f868A215493461446D",
+        "icon1": "tru",
+        "icon2": "eth",
+        "pid": 59,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "CQT",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 9,
+        "lp": "0x17890DeB188F2dE6C3e966e053dA1C9a111Ed4A5",
+        "icon1": "usdc",
+        "icon2": "cqt",
+        "pid": 60,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "SI",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 10,
+        "lp": "0x30045ad74f4475E82DcDC269952581ECb7CD2bAd",
+        "icon1": "eth",
+        "icon2": "si",
+        "pid": 61,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "AMP",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 11,
+        "lp": "0x15e86E6f65EF7EA1dbb72A5E51a07926fB1c82E3",
+        "icon1": "eth",
+        "icon2": "amp",
+        "pid": 62,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "BIOS",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 12,
+        "lp": "0xE9a889E6963f122a98f8083d951c71329c726c0A",
+        "icon1": "bios",
+        "icon2": "eth",
+        "pid": 63,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "NEAR",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 13,
+        "lp": "0x6469B34a2a4723163C4902dbBdEa728D20693C12",
+        "icon1": "near",
+        "icon2": "eth",
+        "pid": 64,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "TOKE",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 14,
+        "lp": "0xd4e7a6e2D03e4e48DfC27dd3f46DF1c176647E38",
+        "icon1": "toke",
+        "icon2": "eth",
+        "pid": 65,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "DAI",
+        "token2": "wstETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 15,
+        "lp": "0xc5578194D457dcce3f272538D1ad52c68d1CE849",
+        "icon1": "dai",
+        "icon2": "wsteth",
+        "pid": 66,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "WNCG",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 16,
+        "lp": "0x877d9C970B8B5501E95967Fe845B7293F63E72f7",
+        "icon1": "eth",
+        "icon2": "wncg",
+        "pid": 67,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "BIT",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 17,
+        "lp": "0xE12af1218b4e9272e9628D7c7Dc6354D137D024e",
+        "icon1": "bit",
+        "icon2": "eth",
+        "pid": 68,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "DYDX",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 18,
+        "lp": "0xE4eBD836832F1a8A81641111A5b081a2f90B9430",
+        "icon1": "dydx",
+        "icon2": "eth",
+        "pid": 69,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "BANANA",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 19,
+        "lp": "0xcfa9a297a406a48D1137172C18de04c944b47Ba9",
+        "icon1": "eth",
+        "icon2": "banana",
+        "pid": 70,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "APW",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 20,
+        "lp": "0x53162D78dCa413d9e28cf62799D17a9E278B60E8",
+        "icon1": "apw",
+        "icon2": "eth",
+        "pid": 71,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "MARS4",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 21,
+        "lp": "0xb50580b0D81D9Fe860746387cEF9a8fc36d48d49",
+        "icon1": "mars4",
+        "icon2": "eth",
+        "pid": 72,
+        "adapter": "0x79af733405BAf20405B0B9aDD53CA3E50dfcaEc3",
+        "delegate": "0x677D7A71f40BB13aDB554902B79dbb9C4f270D98",
+        "target": "sushiswapV2",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/SushiV2.abi",
+            "address": "0xEF0881eC094552b2e128Cf945EF17a6752B4Ec5d"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "USDT",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 0,
+        "lp": "0x06da0fd433C1A5d7a4faa01111c044910A184553",
+        "icon1": "eth",
+        "icon2": "usdt",
+        "pid": 73,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 1,
+        "lp": "0x397FF1542f962076d0BFE58eA045FfA2d347ACa0",
+        "icon1": "usdc",
+        "icon2": "eth",
+        "pid": 74,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "DAI",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 2,
+        "lp": "0xC3D03e4F041Fd4cD388c549Ee2A29a9E5075882f",
+        "icon1": "dai",
+        "icon2": "eth",
+        "pid": 75,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "sUSD",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 3,
+        "lp": "0xF1F85b2C54a2bD284B1cf4141D64fD171Bd85539",
+        "icon1": "susd",
+        "icon2": "eth",
+        "pid": 76,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "COMP",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 4,
+        "lp": "0x31503dcb60119A812feE820bb7042752019F2355",
+        "icon1": "comp",
+        "icon2": "eth",
+        "pid": 77,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "SNX",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 6,
+        "lp": "0xA1d7b2d891e3A1f9ef4bBC5be20630C2FEB1c470",
+        "icon1": "snx",
+        "icon2": "eth",
+        "pid": 78,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "UMA",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 7,
+        "lp": "0x001b6450083E531A5a7Bf310BD2c1Af4247E23D4",
+        "icon1": "uma",
+        "icon2": "eth",
+        "pid": 79,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "LINK",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 8,
+        "lp": "0xC40D16476380e4037e6b1A2594cAF6a6cc8Da967",
+        "icon1": "link",
+        "icon2": "eth",
+        "pid": 80,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BAND",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 9,
+        "lp": "0xA75F7c2F025f470355515482BdE9EFA8153536A8",
+        "icon1": "band",
+        "icon2": "eth",
+        "pid": 81,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "YFI",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 11,
+        "lp": "0x088ee5007C98a9677165D78dD2109AE4a3D04d0C",
+        "icon1": "yfi",
+        "icon2": "eth",
+        "pid": 82,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "SUSHI",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 12,
+        "lp": "0x795065dCc9f64b5614C407a6EFDC400DA6221FB0",
+        "icon1": "sushi",
+        "icon2": "eth",
+        "pid": 83,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "REN",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 13,
+        "lp": "0x611CDe65deA90918c0078ac0400A72B0D25B9bb1",
+        "icon1": "ren",
+        "icon2": "eth",
+        "pid": 84,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "CRV",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 17,
+        "lp": "0x58Dc5a51fE44589BEb22E8CE67720B5BC5378009",
+        "icon1": "eth",
+        "icon2": "crv",
+        "pid": 85,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "UNI",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 18,
+        "lp": "0xDafd66636E2561b0284EDdE37e42d192F2844D40",
+        "icon1": "uni",
+        "icon2": "eth",
+        "pid": 86,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "xSUSHI",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 19,
+        "lp": "0x36e2FCCCc59e5747Ff63a03ea2e5C0c2C14911e7",
+        "icon1": "xsushi",
+        "icon2": "eth",
+        "pid": 87,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BTC",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 21,
+        "lp": "0xCEfF51756c56CeFFCA006cD410B03FFC46dd3a58",
+        "icon1": "btc",
+        "icon2": "eth",
+        "pid": 88,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "CREAM",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 22,
+        "lp": "0xf169CeA51EB51774cF107c88309717ddA20be167",
+        "icon1": "cream",
+        "icon2": "eth",
+        "pid": 89,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "yUSD",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 25,
+        "lp": "0x382c4a5147Fd4090F7BE3A9Ff398F95638F5D39E",
+        "icon1": "yusd",
+        "icon2": "eth",
+        "pid": 90,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "HEGIC",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 31,
+        "lp": "0x6463Bd6026A2E7bFab5851b62969A92f7cca0eB6",
+        "icon1": "hegic",
+        "icon2": "eth",
+        "pid": 91,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "MKR",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 33,
+        "lp": "0xBa13afEcda9beB75De5c56BbAF696b880a5A50dD",
+        "icon1": "mkr",
+        "icon2": "eth",
+        "pid": 92,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "OMG",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 36,
+        "lp": "0x742c15d71eA7444964BC39b0eD729B3729ADc361",
+        "icon1": "eth",
+        "icon2": "omg",
+        "pid": 93,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "AAVE",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 37,
+        "lp": "0xD75EA151a61d06868E31F8988D28DFE5E9df57B4",
+        "icon1": "aave",
+        "icon2": "eth",
+        "pid": 94,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "RARI",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 41,
+        "lp": "0x53aaBCcAE8C1713a6a150D9981D2ee867D0720e8",
+        "icon1": "eth",
+        "icon2": "rari",
+        "pid": 95,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "DPI",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 42,
+        "lp": "0x34b13F8CD184F55d0Bd4Dd1fe6C07D46f245c7eD",
+        "icon1": "dpi",
+        "icon2": "eth",
+        "pid": 96,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "YAM",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 44,
+        "lp": "0x0F82E57804D0B1F6FAb2370A43dcFAd3c7cB239c",
+        "icon1": "yam",
+        "icon2": "eth",
+        "pid": 97,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "DOUGH",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 48,
+        "lp": "0x97f34c8E5992EB985c5F740e7EE8c7e48a1de76a",
+        "icon1": "dough",
+        "icon2": "eth",
+        "pid": 98,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "STAKE",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 49,
+        "lp": "0x9Fc5b87b74B9BD239879491056752EB90188106D",
+        "icon1": "stake",
+        "icon2": "eth",
+        "pid": 99,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "AKRO",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 53,
+        "lp": "0x364248b2f1f57C5402d244b2D469A35B4C0e9dAB",
+        "icon1": "akro",
+        "icon2": "eth",
+        "pid": 100,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "KP3R",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 58,
+        "lp": "0xaf988afF99d3d0cb870812C325C588D8D8CB7De8",
+        "icon1": "kp3r",
+        "icon2": "eth",
+        "pid": 101,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "SEEN",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 59,
+        "lp": "0xC5Fa164247d2F8D68804139457146eFBde8370F6",
+        "icon1": "eth",
+        "icon2": "seen",
+        "pid": 102,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ESD",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 63,
+        "lp": "0xDFf71165a646BE71fCfbaa6206342FAa503AeD5D",
+        "icon1": "esd",
+        "icon2": "eth",
+        "pid": 103,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "PNK",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 65,
+        "lp": "0xEF4F1D5007B4FF88c1A56261fec00264AF6001Fb",
+        "icon1": "pnk",
+        "icon2": "eth",
+        "pid": 104,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "YETI",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 67,
+        "lp": "0xf45D97F9D457661783146D63DD13DA20ce9bf847",
+        "icon1": "yeti",
+        "icon2": "eth",
+        "pid": 105,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "INJ",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 69,
+        "lp": "0xFb3cD0B8A5371fe93ef92E3988D30Df7931E2820",
+        "icon1": "eth",
+        "icon2": "inj",
+        "pid": 106,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BOR",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 70,
+        "lp": "0x44D34985826578e5ba24ec78c93bE968549BB918",
+        "icon1": "bor",
+        "icon2": "eth",
+        "pid": 107,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "DFD",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 72,
+        "lp": "0xb12aa722a3A4566645F079B6F10c89A3205b6c2c",
+        "icon1": "dfd",
+        "icon2": "eth",
+        "pid": 108,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BTC",
+        "token2": "BADGER",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 73,
+        "lp": "0x110492b31c59716AC47337E616804E3E3AdC0b4a",
+        "icon1": "btc",
+        "icon2": "badger",
+        "pid": 109,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "INDEX",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 75,
+        "lp": "0xA73DF646512C82550C2b3C0324c4EEdEE53b400C",
+        "icon1": "index",
+        "icon2": "eth",
+        "pid": 110,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "JRT",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 77,
+        "lp": "0xF1360C4ae1cead17B588ec1111983d2791B760d3",
+        "icon1": "jrt",
+        "icon2": "eth",
+        "pid": 111,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ICHI",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 79,
+        "lp": "0x9cD028B1287803250B1e226F0180EB725428d069",
+        "icon1": "ichi",
+        "icon2": "eth",
+        "pid": 112,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "UST",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 85,
+        "lp": "0x8B00eE8606CC70c2dce68dea0CEfe632CCA0fB7b",
+        "icon1": "ust",
+        "icon2": "eth",
+        "pid": 113,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "BCP",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 87,
+        "lp": "0xeB1B57D4f7d4557B032B66c422bc94a8E4Af859e",
+        "icon1": "eth",
+        "icon2": "bcp",
+        "pid": 114,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "YPIE",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 88,
+        "lp": "0x5F30aAc9A472F6c33D5284f9D340C0d57eF33697",
+        "icon1": "ypie",
+        "icon2": "eth",
+        "pid": 115,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "DDX",
+        "token2": "USDC",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 91,
+        "lp": "0xc2B0F2A7F736d3b908BdDE8608177c8Fc28C1690",
+        "icon1": "ddx",
+        "icon2": "usdc",
+        "pid": 116,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ALPHA",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 96,
+        "lp": "0xf55C33D94150d93c2cfb833bcCA30bE388b14964",
+        "icon1": "alpha",
+        "icon2": "eth",
+        "pid": 117,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "CRETH2",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 98,
+        "lp": "0x71817445D11f42506F2D7F54417c935be90Ca731",
+        "icon1": "eth",
+        "icon2": "creth2",
+        "pid": 118,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "DUSD",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 99,
+        "lp": "0xb1D38026062Ac10FEDA072CA0E9b7E35f1f5795a",
+        "icon1": "dusd",
+        "icon2": "eth",
+        "pid": 119,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ANT",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 100,
+        "lp": "0x201e6a9E75df132a8598720433Af35fe8d73e94D",
+        "icon1": "ant",
+        "icon2": "eth",
+        "pid": 120,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BTC",
+        "token2": "DIGG",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 103,
+        "lp": "0x9a13867048e01c663ce8Ce2fE0cDAE69Ff9F35E3",
+        "icon1": "btc",
+        "icon2": "digg",
+        "pid": 121,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "NFTX",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 104,
+        "lp": "0x31d64f9403E82243e71C2af9D8F56C7DBe10C178",
+        "icon1": "nftx",
+        "icon2": "eth",
+        "pid": 122,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "API3",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 105,
+        "lp": "0xA8AEC03d5Cf2824fD984ee249493d6D4D6740E61",
+        "icon1": "api3",
+        "icon2": "eth",
+        "pid": 123,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "LDO",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 109,
+        "lp": "0xC558F600B34A5f69dD2f0D06Cb8A88d829B7420a",
+        "icon1": "ldo",
+        "icon2": "eth",
+        "pid": 124,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "pWING",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 111,
+        "lp": "0xBE1E98685fB293144325440C16f69954Ffcb790C",
+        "icon1": "eth",
+        "icon2": "pwing",
+        "pid": 125,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "TUSD",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 112,
+        "lp": "0x760166FA4f227dA29ecAC3BeC348f5fA853a1f3C",
+        "icon1": "tusd",
+        "icon2": "eth",
+        "pid": 126,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ALEPH",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 113,
+        "lp": "0x7B98e476De2c50b6fa284DBd410Dd516f9a72b30",
+        "icon1": "aleph",
+        "icon2": "eth",
+        "pid": 127,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "MTA",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 115,
+        "lp": "0x663242D053057f317A773D7c262B700616d0b9A0",
+        "icon1": "mta",
+        "icon2": "eth",
+        "pid": 128,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "RGT",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 117,
+        "lp": "0x18A797C7C70c1Bf22fDee1c09062aBA709caCf04",
+        "icon1": "eth",
+        "icon2": "rgt",
+        "pid": 129,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "IDLE",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 118,
+        "lp": "0xA7f11E026a0Af768D285360a855F2BDEd3047530",
+        "icon1": "idle",
+        "icon2": "eth",
+        "pid": 130,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "SDT",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 120,
+        "lp": "0x22DEF8cF4E481417cb014D9dc64975BA12E3a184",
+        "icon1": "sdt",
+        "icon2": "eth",
+        "pid": 131,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "GNO",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 121,
+        "lp": "0x41328fdBA556c8C969418ccCcB077B7B8D932aA5",
+        "icon1": "gno",
+        "icon2": "eth",
+        "pid": 132,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "aETHc",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 123,
+        "lp": "0xfa5bc40c3BD5aFA8bC2fe6b84562fEE16FB2Df5F",
+        "icon1": "eth",
+        "icon2": "aethc",
+        "pid": 133,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ARMOR",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 127,
+        "lp": "0x17A2194D55f52Fd0C711e0e42B41975494bb109B",
+        "icon1": "armor",
+        "icon2": "eth",
+        "pid": 134,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ALPHA",
+        "token2": "ibETHv2",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 129,
+        "lp": "0xf79a07cd3488BBaFB86dF1bAd09a6168D935c017",
+        "icon1": "alpha",
+        "icon2": "ibethv2",
+        "pid": 135,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "renDOGE",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 130,
+        "lp": "0xb46736888247C68C995B156CA86426ff32e27Cc9",
+        "icon1": "rendoge",
+        "icon2": "eth",
+        "pid": 136,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "TORN",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 133,
+        "lp": "0xb270176bA6075196dF88B855c3Ec7776871Fdb33",
+        "icon1": "torn",
+        "icon2": "eth",
+        "pid": 137,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "VSP",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 135,
+        "lp": "0x132eEb05d5CB6829Bd34F552cDe0b6b708eF5014",
+        "icon1": "vsp",
+        "icon2": "eth",
+        "pid": 138,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "DAO",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 138,
+        "lp": "0x96F5b7C2bE10dC7dE02Fa8858A8f1Bd19C2fA72A",
+        "icon1": "dao",
+        "icon2": "eth",
+        "pid": 139,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "GRT",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 139,
+        "lp": "0x7B504a15ef05F4EED1C07208C5815c49022A0C19",
+        "icon1": "eth",
+        "icon2": "grt",
+        "pid": 140,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "FTM",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 140,
+        "lp": "0x0E26A21013f2F8C0362cFae608b4e69a249D5EFc",
+        "icon1": "ftm",
+        "icon2": "eth",
+        "pid": 141,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "ANY",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 141,
+        "lp": "0xEc78bD3b23aC867FcC028f2db405A1d9A0A2f712",
+        "icon1": "eth",
+        "icon2": "any",
+        "pid": 142,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "XFT",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 149,
+        "lp": "0xF39fF863730268C9bb867b3a69d031d1C1614b31",
+        "icon1": "xft",
+        "icon2": "eth",
+        "pid": 143,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "ZRX",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 150,
+        "lp": "0x0BC5AE46c32D99C434b7383183ACa16DD6E9BdC8",
+        "icon1": "eth",
+        "icon2": "zrx",
+        "pid": 144,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "DERI",
+        "token2": "USDT",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 152,
+        "lp": "0xA3DfbF2933FF3d96177bde4928D0F5840eE55600",
+        "icon1": "deri",
+        "icon2": "usdt",
+        "pid": 145,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "PREMIA",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 153,
+        "lp": "0x93E2F3a8277E0360081547D711446e4a1F83546D",
+        "icon1": "premia",
+        "icon2": "eth",
+        "pid": 146,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BANK",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 154,
+        "lp": "0x938625591ADb4e865b882377e2c965F9f9b85E34",
+        "icon1": "bank",
+        "icon2": "eth",
+        "pid": 147,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "LINA",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 155,
+        "lp": "0x38A0469520534fC70c9C0b9DE4B8649e36A2aE3E",
+        "icon1": "lina",
+        "icon2": "eth",
+        "pid": 148,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "PERP",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 156,
+        "lp": "0x8486c538DcBD6A707c5b3f730B6413286FE8c854",
+        "icon1": "perp",
+        "icon2": "eth",
+        "pid": 149,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "SCRT",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 157,
+        "lp": "0x9c86BC3C72Ab97c2234CBA8c6c7069009465AE86",
+        "icon1": "scrt",
+        "icon2": "eth",
+        "pid": 150,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "USDP",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 158,
+        "lp": "0xB0484fB3aC155AaF7d024b20f1a569ddD6332c32",
+        "icon1": "usdp",
+        "icon2": "eth",
+        "pid": 151,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "USDP",
+        "token2": "DUCK",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 159,
+        "lp": "0xFe308FE2Eb938F772807AEc2E87Fc762d47c40E0",
+        "icon1": "usdp",
+        "icon2": "duck",
+        "pid": 152,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "RLC",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 164,
+        "lp": "0x75382c52b6F90B3f8014BfcadAC2386513F1e3bC",
+        "icon1": "rlc",
+        "icon2": "eth",
+        "pid": 153,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "bDIGG",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 165,
+        "lp": "0xF9440fEDC72A0B8030861DcDac39A75b544E7A3c",
+        "icon1": "bdigg",
+        "icon2": "eth",
+        "pid": 154,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "bBADGER",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 166,
+        "lp": "0x0a54d4b378C8dBfC7bC93BE50C85DebAFdb87439",
+        "icon1": "bbadger",
+        "icon2": "eth",
+        "pid": 155,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "YLA",
+        "token2": "USDC",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 167,
+        "lp": "0x87B6f3A2DC6E541A9ce40E58f517953782Ae614E",
+        "icon1": "yla",
+        "icon2": "usdc",
+        "pid": 156,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "MASK",
+        "token2": "USDC",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 169,
+        "lp": "0x31fa985bB0C282a814E7f3f0Dce88B2A44197F60",
+        "icon1": "mask",
+        "icon2": "usdc",
+        "pid": 157,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "ROOK",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 170,
+        "lp": "0xf13eEF1C6485348B9C9FA0d5Df2d89AccC5b0147",
+        "icon1": "eth",
+        "icon2": "rook",
+        "pid": 158,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "DFX",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 172,
+        "lp": "0xBE71372995E8e920E4E72a29a51463677A302E8d",
+        "icon1": "dfx",
+        "icon2": "eth",
+        "pid": 159,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "INV",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 173,
+        "lp": "0x328dFd0139e26cB0FEF7B0742B49b0fe4325F821",
+        "icon1": "inv",
+        "icon2": "eth",
+        "pid": 160,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "OCEAN",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 175,
+        "lp": "0xeE35E548C7457FcDd51aE95eD09108be660Ea374",
+        "icon1": "ocean",
+        "icon2": "eth",
+        "pid": 161,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "WOO",
+        "token2": "USDC",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 176,
+        "lp": "0xf5ca27927Ffb16BD8C870Dcb49750146CCe8217c",
+        "icon1": "woo",
+        "icon2": "usdc",
+        "pid": 162,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "pONT",
+        "token2": "pWING",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 177,
+        "lp": "0x91A48c69Ec3f3cE855FE5054F82D2bef8Fd66C43",
+        "icon1": "pont",
+        "icon2": "pwing",
+        "pid": 163,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "DNT",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 178,
+        "lp": "0xa1f967F25AE32bD3435E45EA8657De16Ce5A4Ae6",
+        "icon1": "dnt",
+        "icon2": "eth",
+        "pid": 164,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "EGT",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 181,
+        "lp": "0xc7FF546c6CbC87Ad9f6F557db5A0df5c742cA440",
+        "icon1": "egt",
+        "icon2": "eth",
+        "pid": 165,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "MUST",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 183,
+        "lp": "0xA872D244B8948DFD6Cb7Bd19f79E7C1bfb7DB4a0",
+        "icon1": "must",
+        "icon2": "eth",
+        "pid": 166,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "OHM",
+        "token2": "DAI",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 185,
+        "lp": "0x34d7d7Aaf50AD4944B70B320aCB24C95fa2def7c",
+        "icon1": "ohm",
+        "icon2": "dai",
+        "pid": 167,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "POOL",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 186,
+        "lp": "0x577959C519c24eE6ADd28AD96D3531bC6878BA34",
+        "icon1": "pool",
+        "icon2": "eth",
+        "pid": 168,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "YLD",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 187,
+        "lp": "0x662511a91734AEa8b06EF770D6Ed51cC539772d0",
+        "icon1": "eth",
+        "icon2": "yld",
+        "pid": 169,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BZRX",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 188,
+        "lp": "0xa30911e072A0C88D55B5D0A0984B66b0D04569d0",
+        "icon1": "bzrx",
+        "icon2": "eth",
+        "pid": 170,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "yvBOOST",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 230,
+        "lp": "0x9461173740D27311b176476FA27e94C681b1Ea6b",
+        "icon1": "yvboost",
+        "icon2": "eth",
+        "pid": 171,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "AXS",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 231,
+        "lp": "0x0C365789DbBb94A29F8720dc465554c587e897dB",
+        "icon1": "axs",
+        "icon2": "eth",
+        "pid": 172,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BDI",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 232,
+        "lp": "0x8d782C5806607E9AAFB2AC38c1DA3838Edf8BD03",
+        "icon1": "bdi",
+        "icon2": "eth",
+        "pid": 173,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BASK",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 233,
+        "lp": "0x34D25a4749867eF8b62A0CD1e2d7B4F7aF167E01",
+        "icon1": "bask",
+        "icon2": "eth",
+        "pid": 174,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BTC2x-FLI",
+        "token2": "BTC",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 234,
+        "lp": "0x164FE0239d703379Bddde3c80e4d4800A1cd452B",
+        "icon1": "btc2x-fli",
+        "icon2": "btc",
+        "pid": 175,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BTC",
+        "token2": "ibBTC",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 235,
+        "lp": "0x18d98D452072Ac2EB7b74ce3DB723374360539f1",
+        "icon1": "btc",
+        "icon2": "ibbtc",
+        "pid": 176,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "MM",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 237,
+        "lp": "0x41848373dec2867ef3924E47B2eBD0EE645a54F9",
+        "icon1": "mm",
+        "icon2": "eth",
+        "pid": 177,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "PMON",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 239,
+        "lp": "0x69ab811953499Eb253c5a69aE06275A42b97c9aE",
+        "icon1": "pmon",
+        "icon2": "eth",
+        "pid": 178,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "MANA",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 240,
+        "lp": "0x1bEC4db6c3Bc499F3DbF289F5499C30d541FEc97",
+        "icon1": "mana",
+        "icon2": "eth",
+        "pid": 179,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "WASABI",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 241,
+        "lp": "0x8F9ef75CD6E610Dd8Acf8611c344573032fB9c3d",
+        "icon1": "wasabi",
+        "icon2": "eth",
+        "pid": 180,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "DRC",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 242,
+        "lp": "0xC79FAEed130816B38E5996b79B1b3b6568cc599F",
+        "icon1": "drc",
+        "icon2": "eth",
+        "pid": 181,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "$DG",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 243,
+        "lp": "0xd3dA6236aEcb6b55F571249c011B8EEC340a418E",
+        "icon1": "eth",
+        "icon2": "$dg",
+        "pid": 182,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ILV",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 244,
+        "lp": "0x6a091a3406E0073C3CD6340122143009aDac0EDa",
+        "icon1": "ilv",
+        "icon2": "eth",
+        "pid": 183,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "YFI",
+        "token2": "WOOFY",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 254,
+        "lp": "0x0780B42B3c4cAF41933CFC0040d2853363De20A7",
+        "icon1": "yfi",
+        "icon2": "woofy",
+        "pid": 184,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "NAOS",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 255,
+        "lp": "0x82EbCD936C9E938704b65027850E42393F8BC4d4",
+        "icon1": "naos",
+        "icon2": "eth",
+        "pid": 185,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "UMB",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 256,
+        "lp": "0x7229d526d5fD693720B88Eb7129058dB5D497BCe",
+        "icon1": "umb",
+        "icon2": "eth",
+        "pid": 186,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "MOVE",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 257,
+        "lp": "0x87b918e76c92818DB0c76a4E174447aeE6E6D23f",
+        "icon1": "move",
+        "icon2": "eth",
+        "pid": 187,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "LEV",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 258,
+        "lp": "0xe73ad09925201F21b607ccADA9A371C12A2f49C3",
+        "icon1": "lev",
+        "icon2": "eth",
+        "pid": 188,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "MLN",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 259,
+        "lp": "0x2F8AC927aa94293461C75406e90Ec0cCFb2748d9",
+        "icon1": "eth",
+        "icon2": "mln",
+        "pid": 189,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BPT",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 268,
+        "lp": "0x57024267e8272618f9c5037D373043a8646507e5",
+        "icon1": "bpt",
+        "icon2": "eth",
+        "pid": 190,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BANK",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 270,
+        "lp": "0x2c51eaa1BCc7b013C3f1D5985cDcB3c56DC3fbc1",
+        "icon1": "bank",
+        "icon2": "eth",
+        "pid": 191,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "alUSD",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 271,
+        "lp": "0x0589e281D35ee1Acf6D4fd32f1fbA60EFfb5281B",
+        "icon1": "alusd",
+        "icon2": "eth",
+        "pid": 192,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "SAK3",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 272,
+        "lp": "0xD45Afa3649e57a961C001b935deD1c79D81A9d23",
+        "icon1": "usdc",
+        "icon2": "sak3",
+        "pid": 193,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BOND",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 273,
+        "lp": "0x613C836DF6695c10f0f4900528B6931441Ac5d5a",
+        "icon1": "bond",
+        "icon2": "eth",
+        "pid": 194,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "bb_cDAI",
+        "token2": "DAI",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 274,
+        "lp": "0x0BB6e2a9858A089437EC678dA05E559Ffe0Af5b2",
+        "icon1": "bb_cdai",
+        "icon2": "dai",
+        "pid": 195,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "FOLD",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 275,
+        "lp": "0xA914a9b9E03b6aF84F9c6bd2e0e8d27D405695Db",
+        "icon1": "eth",
+        "icon2": "fold",
+        "pid": 196,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "NDX",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 276,
+        "lp": "0x8911fce375a8414B1b578BE66eE691A8D2D4DBf7",
+        "icon1": "ndx",
+        "icon2": "eth",
+        "pid": 197,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "DEGEN",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 277,
+        "lp": "0xe8eB0f7B866A85DA49401D04FfFcfC1aBbF24Dfd",
+        "icon1": "degen",
+        "icon2": "eth",
+        "pid": 198,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "1ONE",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 278,
+        "lp": "0x986627dB5E4AAE987f580feB63D475992e5aC0AE",
+        "icon1": "eth",
+        "icon2": "1one",
+        "pid": 199,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "DVF",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 280,
+        "lp": "0xe93b1b5E1dAdCE8152A69470C1b31463aF260296",
+        "icon1": "usdt",
+        "icon2": "dvf",
+        "pid": 200,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ANKR",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 281,
+        "lp": "0x1241F4a348162d99379A23E73926Cf0bfCBf131e",
+        "icon1": "ankr",
+        "icon2": "eth",
+        "pid": 201,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "ONX",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 282,
+        "lp": "0x0652687E87a4b8b5370b05bc298Ff00d205D9B5f",
+        "icon1": "eth",
+        "icon2": "onx",
+        "pid": 202,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ibEUR",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 283,
+        "lp": "0xa2D81bEdf22201A77044CDF3Ab4d9dC1FfBc391B",
+        "icon1": "ibeur",
+        "icon2": "eth",
+        "pid": 203,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "EDEN",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 284,
+        "lp": "0x82DBc2673e9640343D263a3c55DE49021AD39aE2",
+        "icon1": "eden",
+        "icon2": "eth",
+        "pid": 204,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "TOWER",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 285,
+        "lp": "0xdBaa04796CB5C05D02B8A41B702d9b67c13c9fa9",
+        "icon1": "tower",
+        "icon2": "eth",
+        "pid": 205,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "DPI",
+        "token2": "FEI",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 286,
+        "lp": "0x8775aE5e83BC5D926b6277579c2B0d40c7D9b528",
+        "icon1": "dpi",
+        "icon2": "fei",
+        "pid": 206,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "VUSD",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 288,
+        "lp": "0xb90047676cC13e68632c55cB5b7cBd8A4C5A0A8E",
+        "icon1": "vusd",
+        "icon2": "eth",
+        "pid": 207,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "SLP",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 290,
+        "lp": "0x8597fa0773888107E2867D36dd87Fe5bAFeAb328",
+        "icon1": "eth",
+        "icon2": "slp",
+        "pid": 208,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "PENDLE",
+        "token2": "OT-SLP-29DEC2022",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 291,
+        "lp": "0xb124C4e18A282143D362a066736FD60d22393Ef4",
+        "icon1": "pendle",
+        "icon2": "ot-slp-29dec2022",
+        "pid": 209,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "DOG",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 292,
+        "lp": "0xc96F20099d96b37D7Ede66fF9E4DE59b9B1065b1",
+        "icon1": "dog",
+        "icon2": "eth",
+        "pid": 210,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "ID",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 293,
+        "lp": "0x77337FF10206480739a768124A18f3aA8C089153",
+        "icon1": "eth",
+        "icon2": "id",
+        "pid": 211,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "NFD",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 294,
+        "lp": "0xeEFA3b448768dD561Af4F743C9e925987A1F8D09",
+        "icon1": "eth",
+        "icon2": "nfd",
+        "pid": 212,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "LUSD",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 295,
+        "lp": "0x279Ca79d5fb2490721512C8Ae4767E249D75F41B",
+        "icon1": "lusd",
+        "icon2": "eth",
+        "pid": 213,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "AGLD",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 296,
+        "lp": "0x0d15e893cf50724382368CAFEd222CF131B55307",
+        "icon1": "agld",
+        "icon2": "eth",
+        "pid": 214,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BGLD",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 297,
+        "lp": "0x1cB9E12b35199BEE15d9eE13696B87bb777776dd",
+        "icon1": "bgld",
+        "icon2": "eth",
+        "pid": 215,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "SPELL",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 298,
+        "lp": "0xb5De0C3753b6E1B4dBA616Db82767F17513E6d4E",
+        "icon1": "spell",
+        "icon2": "eth",
+        "pid": 216,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "DATA",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 299,
+        "lp": "0x208226200B45B82212b814f49eFA643980a7BdD1",
+        "icon1": "data",
+        "icon2": "eth",
+        "pid": 217,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "renFIL",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 300,
+        "lp": "0x9cEE2ad771B57555C93F55D8bAbc3c8a221E3b74",
+        "icon1": "eth",
+        "icon2": "renfil",
+        "pid": 218,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BMI",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 301,
+        "lp": "0x53813285cc60b13fCd2105C6472a47af01f8Ac84",
+        "icon1": "bmi",
+        "icon2": "eth",
+        "pid": 219,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "REVV",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 302,
+        "lp": "0xc926990039045611eb1DE520C1E249Fd0d20a8eA",
+        "icon1": "revv",
+        "icon2": "eth",
+        "pid": 220,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "KAE",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 303,
+        "lp": "0x400043e27415773e4a509c53ac5d7D3c036f6D92",
+        "icon1": "kae",
+        "icon2": "eth",
+        "pid": 221,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "BiFi",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 304,
+        "lp": "0x0beC54c89a7d9F15C4e7fAA8d47ADEdF374462eD",
+        "icon1": "bifi",
+        "icon2": "eth",
+        "pid": 222,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "SYN",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 305,
+        "lp": "0x4A86C01d67965f8cB3d0AAA2c655705E64097C31",
+        "icon1": "syn",
+        "icon2": "eth",
+        "pid": 223,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "GLYPH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 306,
+        "lp": "0x0d9f9c919F1B66a8587A5637b8d1A6a6C5854380",
+        "icon1": "eth",
+        "icon2": "glyph",
+        "pid": 224,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "AVASTR",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 307,
+        "lp": "0xF3D4206b8f2B7C63290661c99a2b494aEf3b8c30",
+        "icon1": "eth",
+        "icon2": "avastr",
+        "pid": 225,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "PURR",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 308,
+        "lp": "0xc8A6189bB16331B37C7a903B8904201b4Ca7acCB",
+        "icon1": "eth",
+        "icon2": "purr",
+        "pid": 226,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "PUDGY",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 309,
+        "lp": "0x5D472C9edEcE12A75Ed7C0584Dd02407Cb5b47da",
+        "icon1": "pudgy",
+        "icon2": "eth",
+        "pid": 227,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "SQGL",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 310,
+        "lp": "0x698AbbBC986C59D02941E18BC96fe2396493339B",
+        "icon1": "sqgl",
+        "icon2": "eth",
+        "pid": 228,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "MASK",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 311,
+        "lp": "0x38E03A5fB1b1a18D47B364CDD7CdCe606397c72c",
+        "icon1": "eth",
+        "icon2": "mask",
+        "pid": 229,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "PUNK",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 312,
+        "lp": "0x0463a06fBc8bF28b3F120cd1BfC59483F099d332",
+        "icon1": "punk",
+        "icon2": "eth",
+        "pid": 230,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "TOADZ",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 313,
+        "lp": "0xef4fA701fa5DF88EF0d5707d6144E446a1A2238b",
+        "icon1": "toadz",
+        "icon2": "eth",
+        "pid": 231,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "COOL",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 314,
+        "lp": "0x0225E940deEcC32A8d7C003CfB7dae22aF18460C",
+        "icon1": "cool",
+        "icon2": "eth",
+        "pid": 232,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "WIZARD",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 315,
+        "lp": "0x0A2F9b5360b5C7b6D3CE826971425B3b8B766519",
+        "icon1": "wizard",
+        "icon2": "eth",
+        "pid": 233,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "UWU",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 316,
+        "lp": "0xFd52305D58f612aaD5f7E5e331C7A0D77E352EC3",
+        "icon1": "uwu",
+        "icon2": "eth",
+        "pid": 234,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "VITE",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 317,
+        "lp": "0xEC87cB93eCd0Fe2f80dBd0D85431EACF1de09d50",
+        "icon1": "vite",
+        "icon2": "eth",
+        "pid": 235,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "MEEB",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 318,
+        "lp": "0xe339c1D0A744053CbCeb0D2dc2d13967c8a69586",
+        "icon1": "meeb",
+        "icon2": "eth",
+        "pid": 236,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "BAYC",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 319,
+        "lp": "0xD829dE54877e0b66A2c3890b702fa5Df2245203E",
+        "icon1": "eth",
+        "icon2": "bayc",
+        "pid": 237,
+        "adapter": "0xd17722eB6D4Bf37eA1eF27d2c7519e9049eD4D32",
+        "delegate": "0xfc8D49DDF07a2d18C48b1551E58e05EF641A584a",
+        "target": "sushiswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd"
+        }
+    },
+    {
+        "token1": "SHIB",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 0,
+        "lp": "0xCF6dAAB95c476106ECa715D48DE4b13287ffDEAa",
+        "icon1": "shib",
+        "icon2": "eth",
+        "pid": 238,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "LEASH",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 1,
+        "lp": "0x57654aE132413E81459aD2AE70C2570A9B89fB53",
+        "icon1": "leash",
+        "icon2": "eth",
+        "pid": 239,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "BTC",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 2,
+        "lp": "0x86cccdA3799A43fBCeB4cEc6Ad8b028f5bF8B3dD",
+        "icon1": "btc",
+        "icon2": "eth",
+        "pid": 240,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 3,
+        "lp": "0x20E95253e54490D8d30ea41574b24F741ee70201",
+        "icon1": "usdc",
+        "icon2": "eth",
+        "pid": 241,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "SUSHI",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 4,
+        "lp": "0x6cbefa95e42960E579C2A3058C05C6A08e2498e9",
+        "icon1": "sushi",
+        "icon2": "eth",
+        "pid": 242,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "UNI",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 5,
+        "lp": "0x9d406c4067A53f65DE1A8A9273D55bfEA5870a75",
+        "icon1": "uni",
+        "icon2": "eth",
+        "pid": 243,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "LINK",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 6,
+        "lp": "0xf15FD4DC6a1D3C0aA8bBAb46dB6400F53A49f737",
+        "icon1": "link",
+        "icon2": "eth",
+        "pid": 244,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "DAI",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 7,
+        "lp": "0x8faf958E36c6970497386118030e6297fFf8d275",
+        "icon1": "dai",
+        "icon2": "eth",
+        "pid": 245,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "xFUND",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 8,
+        "lp": "0x43A76C98CD94e309B0ab1757a42a51bcaA334ff5",
+        "icon1": "xfund",
+        "icon2": "eth",
+        "pid": 246,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "SNX",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 9,
+        "lp": "0xf3033c8D381F16D9D466B0517e6cccED0F493Fb6",
+        "icon1": "snx",
+        "icon2": "eth",
+        "pid": 247,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "MEME",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 10,
+        "lp": "0x50b2C07F0269eBf0E906FeEeA9d5c90C42D9fd24",
+        "icon1": "eth",
+        "icon2": "meme",
+        "pid": 248,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "GRT",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 11,
+        "lp": "0x6D2A35E903f95a8acA302dE7688D12e26F1A08d8",
+        "icon1": "eth",
+        "icon2": "grt",
+        "pid": 249,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "DUCK",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 12,
+        "lp": "0xaE06088Ecb0e668Db494eE64ae78aF5e5B510797",
+        "icon1": "duck",
+        "icon2": "eth",
+        "pid": 250,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "ELON",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 13,
+        "lp": "0x540c57A187e8405df4522b3786B774cECbf2Fb5f",
+        "icon1": "elon",
+        "icon2": "eth",
+        "pid": 251,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "VXV",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 14,
+        "lp": "0x6593f97975400FCfEE16a44D8448bB0509743e8E",
+        "icon1": "vxv",
+        "icon2": "eth",
+        "pid": 252,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "BONE",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 15,
+        "lp": "0xEFb47fcFCaD4F96c83D4ca676842fB03Ef20a477",
+        "icon1": "bone",
+        "icon2": "eth",
+        "pid": 253,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "LEASH",
+        "token2": "BONE",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 16,
+        "lp": "0xf6bAdfb9b0ab2F8F3FD8225Ef1eA12fA689aD1a7",
+        "icon1": "leash",
+        "icon2": "bone",
+        "pid": 254,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "USDT",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 17,
+        "lp": "0x703b120F15Ab77B986a24c6f9262364d02f9432f",
+        "icon1": "eth",
+        "icon2": "usdt",
+        "pid": 255,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "SHIB",
+        "token2": "BONE",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 18,
+        "lp": "0xFf64Cb7Ba5717a10DAbC4Be3A41acd2C2F95eE22",
+        "icon1": "shib",
+        "icon2": "bone",
+        "pid": 256,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "F9",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 19,
+        "lp": "0x29bAA9EBCCE8552B030bC1138D5d64893018b329",
+        "icon1": "f9",
+        "icon2": "eth",
+        "pid": 257,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "UFO",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 20,
+        "lp": "0x7A019E9f33af312b5E5c6b065fBC733CcaA09F39",
+        "icon1": "ufo",
+        "icon2": "eth",
+        "pid": 258,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "STARL",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 21,
+        "lp": "0x2A529766847129F8cc13cEBC6b7dFe89Ee49D55C",
+        "icon1": "starl",
+        "icon2": "eth",
+        "pid": 259,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "ZIG",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 22,
+        "lp": "0x5572e5E8119b6B747f286f3B63082a64f8b24856",
+        "icon1": "zig",
+        "icon2": "eth",
+        "pid": 260,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "RYOSHI",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 23,
+        "lp": "0x5660c518c5610493086A3BA550f7ad6EB7935d1E",
+        "icon1": "ryoshi",
+        "icon2": "eth",
+        "pid": 261,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "PERL",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 24,
+        "lp": "0x3187feB2Bf79FCE819c6fc9D62597A638163c30F",
+        "icon1": "eth",
+        "icon2": "perl",
+        "pid": 262,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "token1": "CIV",
+        "token2": "ETH",
+        "tokenPrefix": "SushiSwap LP",
+        "victimPID": 25,
+        "lp": "0x8d5a1DCDc0fb93DE2103977B1FfeAcB16066025b",
+        "icon1": "civ",
+        "icon2": "eth",
+        "pid": 263,
+        "adapter": "0x69C4EFEbbF58F8C365F506fcb5CB43AaaceC017A",
+        "delegate": "0x253Bc16f454B38E98F4a26A0C45226450B1C3830",
+        "target": "shibaswap",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/MasterChef.abi",
+            "address": "0x94235659cF8b805B2c658f9ea2D6d6DDbb17C8d7"
+        }
+    },
+    {
+        "address": "0xCF50b810E57Ac33B91dCF525C6ddd9881B139332",
+        "tokenPrefix": "Convex Token",
+        "token1": "CVX",
+        "token2": "",
+        "victimPID": 0,
+        "lp": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
+        "icon1": "cvx",
+        "icon2": "",
+        "pid": 264,
+        "adapter": "0xB2e0a164a4F2d96c0c3D3F2e377634555D229815",
+        "delegate": "0x77B30e4f01dCdD7291E5e87263Aa935608772e2B",
+        "target": "convexsingle",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0xCF50b810E57Ac33B91dCF525C6ddd9881B139332"
+        }
+    },
+    {
+        "address": "0x3Fe65692bfCD0e6CF84cB1E7d24108E434A7587e",
+        "tokenPrefix": "Convex CRV",
+        "token1": "cvxCRV",
+        "token2": "",
+        "victimPID": 1,
+        "lp": "0x62B9c7356A2Dc64a1969e19C23e4f579F9810Aa7",
+        "icon1": "cvxcrv",
+        "icon2": "",
+        "pid": 265,
+        "adapter": "0xB2e0a164a4F2d96c0c3D3F2e377634555D229815",
+        "delegate": "0x77B30e4f01dCdD7291E5e87263Aa935608772e2B",
+        "target": "convexsingle",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x3Fe65692bfCD0e6CF84cB1E7d24108E434A7587e"
+        }
+    },
+    {
+        "address": "0x103cc17C2B1586e5Cd9BaD308690bCd0BBe54D5e",
+        "tokenPrefix": "Vesper",
+        "token1": "vETH",
+        "token2": "",
+        "victimPID": 0,
+        "lp": "0x103cc17C2B1586e5Cd9BaD308690bCd0BBe54D5e",
+        "icon1": "veth",
+        "icon2": "",
+        "pid": 266,
+        "adapter": "0xeE56e7FFCe662F82d437a5c783324296EB8c758B",
+        "delegate": "0xE71b11fa96bE49c7CE158c2966a3Ca39F1c385c8",
+        "target": "vesper",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x103cc17C2B1586e5Cd9BaD308690bCd0BBe54D5e"
+        }
+    },
+    {
+        "address": "0x4B2e76EbBc9f2923d83F5FBDe695D8733db1a17B",
+        "tokenPrefix": "Vesper",
+        "token1": "vWBTC",
+        "token2": "",
+        "victimPID": 1,
+        "lp": "0x4B2e76EbBc9f2923d83F5FBDe695D8733db1a17B",
+        "icon1": "vwbtc",
+        "icon2": "",
+        "pid": 267,
+        "adapter": "0xeE56e7FFCe662F82d437a5c783324296EB8c758B",
+        "delegate": "0xE71b11fa96bE49c7CE158c2966a3Ca39F1c385c8",
+        "target": "vesper",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x4B2e76EbBc9f2923d83F5FBDe695D8733db1a17B"
+        }
+    },
+    {
+        "address": "0x0C49066C0808Ee8c673553B7cbd99BCC9ABf113d",
+        "tokenPrefix": "Vesper",
+        "token1": "vUSDC",
+        "token2": "",
+        "victimPID": 2,
+        "lp": "0x0C49066C0808Ee8c673553B7cbd99BCC9ABf113d",
+        "icon1": "vusdc",
+        "icon2": "",
+        "pid": 268,
+        "adapter": "0xeE56e7FFCe662F82d437a5c783324296EB8c758B",
+        "delegate": "0xE71b11fa96bE49c7CE158c2966a3Ca39F1c385c8",
+        "target": "vesper",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x0C49066C0808Ee8c673553B7cbd99BCC9ABf113d"
+        }
+    },
+    {
+        "address": "0x0a27E910Aee974D05000e05eab8a4b8Ebd93D40C",
+        "tokenPrefix": "Vesper",
+        "token1": "vLINK",
+        "token2": "",
+        "victimPID": 3,
+        "lp": "0x0a27E910Aee974D05000e05eab8a4b8Ebd93D40C",
+        "icon1": "vlink",
+        "icon2": "",
+        "pid": 269,
+        "adapter": "0xeE56e7FFCe662F82d437a5c783324296EB8c758B",
+        "delegate": "0xE71b11fa96bE49c7CE158c2966a3Ca39F1c385c8",
+        "target": "vesper",
+        "network": "Ethereum",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x0a27E910Aee974D05000e05eab8a4b8Ebd93D40C"
+        }
+    }
+]

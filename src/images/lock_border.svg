@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40"
+   height="40"
+   viewBox="0 0 40 40"
+   fill="none"
+   version="1.1"
+   id="svg855"
+   sodipodi:docname="lock_border.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata859">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     id="namedview857"
+     showgrid="false"
+     inkscape:zoom="1.7878552"
+     inkscape:cx="66.476803"
+     inkscape:cy="111.97438"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg855" />
+  <defs
+     id="defs26">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask1428">
+      <path
+         id="path1430"
+         style="opacity:1;fill:#33ffff;fill-opacity:1;fill-rule:evenodd;stroke-width:10.9265"
+         d="M -108.97123,-109.79095 H 22.49106 V 22.201696 H 153.95334 V 153.70838 h -262.92457 z"
+         sodipodi:nodetypes="ccccccc" />
+    </mask>
+  </defs>
+  <path
+     d="m 38.5,1 c 2.7614,0 5,2.23858 5,5 v 31.919 c 0,2.7614 -2.2386,5 -5,5 H 6.58099 c -2.76143,0 -5,-2.2386 -5,-5 V 6 c 0,-2.76143 2.23859,-5 5.00001,-5 h 2.6399567 z"
+     stroke="#ff8900"
+     stroke-width="2"
+     id="path20"
+     mask="url(#mask1428)"
+     transform="matrix(0.91280932,0,0,0.91081825,-0.53004707,-3.9483612e-4)" />
+</svg>

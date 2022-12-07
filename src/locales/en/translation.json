@@ -1,0 +1,68 @@
+{
+  "header": {
+    "changeNetwork": "Please change wallet network to {{name}}",
+    "connectWallet": "Connect Wallet",
+    "slippageTolerance": "Slippage Tolerance",
+    "disconnect": "Disconnect"
+  },
+  "main": {
+    "lpStaked": "Staked",
+    "oldApy": "Old APY",
+    "newApy": "New APY",
+    "lpEarned": "Earned",
+    "tvl": "TVL",
+    "apy": "APY",
+    "searchPlaceholder": "Enter token name",
+    "victimTvl": "Original TVL",
+    "networkTitle": "Network",
+    "selectNetwork": "Select network",
+    "protocolTitle": "Protocol",
+    "allProtocols": "All",
+    "sortByTitle": "Sort by",
+    "stakedOnly": "<1>Staked</1><2>Only</2>",
+    "yourOtherPools": "Your other Pools",
+    "noLiquidity": "You don't have any liquidity to migrate",
+    "activePools": "Active Pools",
+    "noResults": "No results found for \"{{query}}\".",
+    "toTop": "To top"
+  },
+  "modals": {
+    "connect": {
+      "title": "Connect Wallet",
+      "noWallet": "Don’t have a wallet?",
+      "getWallet": "Get a wallet!"
+    },
+    "migrate": {
+      "staked": "Staked",
+      "oldAPY": "Old APY",
+      "migrate": "Migrate <1>{{token}}</1> from {{from}}",
+      "newAPY": "New APY",
+      "migrationProcess": "Migration process",
+      "unstakeLP": "Unstake LP",
+      "approveLP": "Approve LP",
+      "stakeLP": "Stake LP",
+      "migrateBtn": "Migrate"
+    },
+    "token": {
+      "stakeSw": "Stake",
+      "unstakeSw": "Unstake",
+      "staked": "Staked",
+      "earned": "Earned",
+      "apy": "APY",
+      "unstakeTtl": "Unstake",
+      "stakeTtl": "Stake",
+      "balance": "Balance",
+      "unstakeBtn": "Unstake",
+      "approveBtn": "Approve",
+      "stakeBtn": "Stake"
+    }
+  },
+  "btn": {
+    "pending": "Pending",
+    "migrationComplete": "Migration complete",
+    "failed": "Failed",
+    "success": "Success",
+    "done": "Done",
+    "retry":"Retry"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "header": {
+    "transactionSpeed": "Transaction speed",
+    "standardSpeed": "Standard",
+    "fastSpeed": "Fast",
+    "instantSpeed": "Instant"
+  }
+}

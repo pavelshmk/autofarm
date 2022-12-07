@@ -1,0 +1,1463 @@
+[
+  {
+    "token1": "ORI",
+    "token2": "FTM",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 1,
+    "lp": "0x0433305Ae161d28eD1408D11581610339dfC9BE4",
+    "icon1": "ori",
+    "icon2": "ftm",
+    "pid": 0,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "AURORA",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 2,
+    "lp": "0x483D07BC99CdD1DF66F64aE0A769A70725C46fA4",
+    "icon1": "ftm",
+    "icon2": "aurora",
+    "pid": 1,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "USDC",
+    "token2": "FTM",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 3,
+    "lp": "0x50Cc648E45B84D68405BA0707e94c507b08e593d",
+    "icon1": "usdc",
+    "icon2": "ftm",
+    "pid": 2,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "ETH",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 4,
+    "lp": "0xc81a9cE5Be68dF6A52F82D83398420D8A1C245c2",
+    "icon1": "ftm",
+    "icon2": "eth",
+    "pid": 3,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "BTC",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 5,
+    "lp": "0x9a2B08B7620B8c387d96f9C1DC315aFD93651F5e",
+    "icon1": "ftm",
+    "icon2": "btc",
+    "pid": 4,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "LINK",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 6,
+    "lp": "0x442bEcA06141F99466d288bde60e79330eCbDf51",
+    "icon1": "ftm",
+    "icon2": "link",
+    "pid": 5,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "DAI",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 7,
+    "lp": "0x6D898d98818e670C695E374ED77cd1753cF109Dd",
+    "icon1": "ftm",
+    "icon2": "dai",
+    "pid": 6,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "USDC",
+    "token2": "ORI",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 8,
+    "lp": "0xF70a9Af9f581c2F752Acc779148712c43E58d2f0",
+    "icon1": "usdc",
+    "icon2": "ori",
+    "pid": 7,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "USDC",
+    "token2": "DAI",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 9,
+    "lp": "0xD7Ee3fd59a2d8082B56319f858fceaD9a902C0A1",
+    "icon1": "usdc",
+    "icon2": "dai",
+    "pid": 8,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "ORI",
+    "token2": "ETH",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 10,
+    "lp": "0xb18E654Af9c3bd229aD72C9F1e8B67518CE6aF37",
+    "icon1": "ori",
+    "icon2": "eth",
+    "pid": 9,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "ORI",
+    "token2": "BTC",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 11,
+    "lp": "0xdDe0ACA9Dc806544f7D5D4DD308a4ee065364Cca",
+    "icon1": "ori",
+    "icon2": "btc",
+    "pid": 10,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "ORI",
+    "token2": "LINK",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 12,
+    "lp": "0x9571d8B11035657d6FcC26fbD26ABFa23Fb62ae2",
+    "icon1": "ori",
+    "icon2": "link",
+    "pid": 11,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "SUSHI",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 13,
+    "lp": "0xF9f979b0283031c4afA4d668626779363B5fE510",
+    "icon1": "ftm",
+    "icon2": "sushi",
+    "pid": 12,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "YFI",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 14,
+    "lp": "0xbD9d4981dEd98F5Dedfd7920C3857c4d6A5eA113",
+    "icon1": "ftm",
+    "icon2": "yfi",
+    "pid": 13,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "SNX",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 15,
+    "lp": "0xF2fCd382Ee404B105bfc0086ED41F1Bd19B8952a",
+    "icon1": "ftm",
+    "icon2": "snx",
+    "pid": 14,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "BNB",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 18,
+    "lp": "0x55c5B2868eae98f38C8c6b84435eD90B400466f9",
+    "icon1": "ftm",
+    "icon2": "bnb",
+    "pid": 15,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "ZOO",
+    "token2": "FTM",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 19,
+    "lp": "0xe200510dC1F28b53C1b1f629861ddE4f8B06B373",
+    "icon1": "zoo",
+    "icon2": "ftm",
+    "pid": 16,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "ICE",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 20,
+    "lp": "0x3D7bC2eE79a21e56dc52B874de3aD5c341f6D888",
+    "icon1": "ftm",
+    "icon2": "ice",
+    "pid": 17,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "ESWAP",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 21,
+    "lp": "0x08492d0fF546B08a9Fb3bd056665cfD240B7D55c",
+    "icon1": "ftm",
+    "icon2": "eswap",
+    "pid": 18,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "ORI",
+    "token2": "ESWAP",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 22,
+    "lp": "0x1935776c366db172a3c4881c7548Cd35D7457c5c",
+    "icon1": "ori",
+    "icon2": "eswap",
+    "pid": 19,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "renBTC",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 23,
+    "lp": "0x91BDC3Dc2028E53Be65f7fd84f21a4a46eA3CB4B",
+    "icon1": "ftm",
+    "icon2": "renbtc",
+    "pid": 20,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "ORI",
+    "token2": "renBTC",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 24,
+    "lp": "0xB7A8659fe7a9741EB2082F177d102f58C86BBe87",
+    "icon1": "ori",
+    "icon2": "renbtc",
+    "pid": 21,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "renZEC",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 25,
+    "lp": "0x6B7EDB556B0428fa4FE58609052618b56CCC7C46",
+    "icon1": "ftm",
+    "icon2": "renzec",
+    "pid": 22,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "ORI",
+    "token2": "renZEC",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 26,
+    "lp": "0x28ac64a278A51c84E0C4C65ba561148e5b15CF43",
+    "icon1": "ori",
+    "icon2": "renzec",
+    "pid": 23,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "renBCH",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 27,
+    "lp": "0xCb90e14e3d73090C6137623225c2E155272038D2",
+    "icon1": "ftm",
+    "icon2": "renbch",
+    "pid": 24,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "ORI",
+    "token2": "renBCH",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 28,
+    "lp": "0x9b6553e4A939DC1f56524337AE10E298B3aFb9CD",
+    "icon1": "ori",
+    "icon2": "renbch",
+    "pid": 25,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "CRV",
+    "token2": "FTM",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 29,
+    "lp": "0x7785698F2Aa354558C77a0186bE0dFD2a9B2452d",
+    "icon1": "crv",
+    "icon2": "ftm",
+    "pid": 26,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "ORI",
+    "token2": "CRV",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 30,
+    "lp": "0x1449Eb84698D6C2faf86863faB8A91aa975ef2F8",
+    "icon1": "ori",
+    "icon2": "crv",
+    "pid": 27,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "WILD",
+    "tokenPrefix": "HyperSwap LP",
+    "victimPID": 31,
+    "lp": "0x40086938588b984D915a1872d68E44C391400852",
+    "icon1": "ftm",
+    "icon2": "wild",
+    "pid": 28,
+    "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+    "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+    "target": "hyperjump",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/HyperPlanet.abi",
+      "address": "0x90Df158ff7c31aD1d81ddDb1D8ab9d0eCBCeDa20"
+    }
+  },
+  {
+    "token1": "USDC",
+    "token2": "FTM",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 4,
+    "lp": "0xe7E90f5a767406efF87Fdad7EB07ef407922EC1D",
+    "icon1": "usdc",
+    "icon2": "ftm",
+    "pid": 29,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "ZOO",
+    "token2": "FTM",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 6,
+    "lp": "0xDF18DD2631f02D930071DF7d6FF89bbc3718C62F",
+    "icon1": "zoo",
+    "icon2": "ftm",
+    "pid": 30,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "ICE",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 7,
+    "lp": "0x936D23C83c2469f6a14B9f5bEaec13879598A5aC",
+    "icon1": "ftm",
+    "icon2": "ice",
+    "pid": 31,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "SUSHI",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 8,
+    "lp": "0x9Fe4c0CE5F533e96C2b72d852f190961AD5a7bB3",
+    "icon1": "ftm",
+    "icon2": "sushi",
+    "pid": 32,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "CRV",
+    "token2": "FTM",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 10,
+    "lp": "0x374C8ACb146407Ef0AE8F82BaAFcF8f4EC1708CF",
+    "icon1": "crv",
+    "icon2": "ftm",
+    "pid": 33,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "LINK",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 11,
+    "lp": "0xd061c6586670792331E14a80f3b3Bb267189C681",
+    "icon1": "ftm",
+    "icon2": "link",
+    "pid": 34,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "YFI",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 13,
+    "lp": "0x4fc38a2735C7da1d71ccAbf6DeC235a7DA4Ec52C",
+    "icon1": "ftm",
+    "icon2": "yfi",
+    "pid": 35,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "fUSDT",
+    "token2": "FTM",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 17,
+    "lp": "0xd14Dd3c56D9bc306322d4cEa0E1C49e9dDf045D4",
+    "icon1": "fusdt",
+    "icon2": "ftm",
+    "pid": 36,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "ANY",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 18,
+    "lp": "0x26D583028989378Cc1b7CBC023f4Ae049d5e5899",
+    "icon1": "ftm",
+    "icon2": "any",
+    "pid": 37,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "MIM",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 30,
+    "lp": "0xB32b31DfAfbD53E310390F641C7119b5B9Ea0488",
+    "icon1": "ftm",
+    "icon2": "mim",
+    "pid": 38,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "LQDR",
+    "token2": "SPIRIT",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 33,
+    "lp": "0xFeBbfeA7674720cEdD35e9384d07F235365c1B3e",
+    "icon1": "lqdr",
+    "icon2": "spirit",
+    "pid": 39,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "TAROT",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 40,
+    "lp": "0xF050133847bb537C7476D054B8bE6e30253Fbd05",
+    "icon1": "ftm",
+    "icon2": "tarot",
+    "pid": 40,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "minSPIRIT",
+    "token2": "",
+    "tokenPrefix": "Master inSPIRIT",
+    "victimPID": 41,
+    "lp": "0x3554f3369a3530ABC031D938d2f717006Fe01fA1",
+    "icon1": "minspirit",
+    "icon2": "",
+    "pid": 41,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "JUST",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 43,
+    "lp": "0x0133660D0578Bf9D085033Ea753a27F5Aa2b9de1",
+    "icon1": "ftm",
+    "icon2": "just",
+    "pid": 42,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "GINSPIRIT",
+    "token2": "SPIRIT",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 47,
+    "lp": "0xc6ED96EdC14a199bde017A273A2CBd4a129bdC65",
+    "icon1": "ginspirit",
+    "icon2": "spirit",
+    "pid": 43,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "ELE",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 51,
+    "lp": "0x2c66C9B7916ef3282c7F66c95A0Ff3333e1Cf814",
+    "icon1": "ftm",
+    "icon2": "ele",
+    "pid": 44,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "fUSDT",
+    "token2": "SPELL",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 52,
+    "lp": "0x31c0385DDE956f95D43Dac80Bd74FEE149961f4c",
+    "icon1": "fusdt",
+    "icon2": "spell",
+    "pid": 45,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "USDC",
+    "token2": "PAPR",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 53,
+    "lp": "0x64bB8a5A4b2f7bd354876059c845c77Cb4554818",
+    "icon1": "usdc",
+    "icon2": "papr",
+    "pid": 46,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "GRIM",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 54,
+    "lp": "0x2c18c39622b90318B0124eCFd6d4aC81efcC51db",
+    "icon1": "ftm",
+    "icon2": "grim",
+    "pid": 47,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "TOMB",
+    "tokenPrefix": "Spirit LP",
+    "victimPID": 56,
+    "lp": "0xd473Ff135305F2fC7BC82D6B6831c911eBd55ed6",
+    "icon1": "ftm",
+    "icon2": "tomb",
+    "pid": 48,
+    "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+    "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+    "target": "spiritswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpiritMaster.abi",
+      "address": "0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "BOO",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 0,
+    "lp": "0xEc7178F4C41f346b2721907F5cF7628E388A7a58",
+    "icon1": "ftm",
+    "icon2": "boo",
+    "pid": 49,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "fUSDT",
+    "token2": "FTM",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 1,
+    "lp": "0x5965E53aa80a0bcF1CD6dbDd72e6A9b2AA047410",
+    "icon1": "fusdt",
+    "icon2": "ftm",
+    "pid": 50,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "USDC",
+    "token2": "FTM",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 2,
+    "lp": "0x2b4C76d0dc16BE1C31D4C1DC53bF9B45987Fc75c",
+    "icon1": "usdc",
+    "icon2": "ftm",
+    "pid": 51,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "DAI",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 3,
+    "lp": "0xe120ffBDA0d14f3Bb6d6053E90E63c572A66a428",
+    "icon1": "ftm",
+    "icon2": "dai",
+    "pid": 52,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "BTC",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 4,
+    "lp": "0xFdb9Ab8B9513Ad9E419Cf19530feE49d412C3Ee3",
+    "icon1": "ftm",
+    "icon2": "btc",
+    "pid": 53,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "ETH",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 5,
+    "lp": "0xf0702249F4D3A25cD3DED7859a165693685Ab577",
+    "icon1": "ftm",
+    "icon2": "eth",
+    "pid": 54,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "LINK",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 6,
+    "lp": "0x89d9bC2F2d091CfBFc31e333D6Dc555dDBc2fd29",
+    "icon1": "ftm",
+    "icon2": "link",
+    "pid": 55,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "AAVE",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 7,
+    "lp": "0xeBF374bB21D83Cf010cC7363918776aDF6FF2BF6",
+    "icon1": "ftm",
+    "icon2": "aave",
+    "pid": 56,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "SNX",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 8,
+    "lp": "0x06d173628bE105fE81F1C82c9979bA79eBCAfCB7",
+    "icon1": "ftm",
+    "icon2": "snx",
+    "pid": 57,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "SUSHI",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 10,
+    "lp": "0xf84E313B36E86315af7a06ff26C8b20e9EB443C3",
+    "icon1": "ftm",
+    "icon2": "sushi",
+    "pid": 58,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "CREAM",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 13,
+    "lp": "0xb77b223490e1f5951ec79A8d09Db9Eab2ADCB934",
+    "icon1": "ftm",
+    "icon2": "cream",
+    "pid": 59,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "CRV",
+    "token2": "FTM",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 14,
+    "lp": "0xB471Ac6eF617e952b84C6a9fF5de65A9da96C93B",
+    "icon1": "crv",
+    "icon2": "ftm",
+    "pid": 60,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "ICE",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 17,
+    "lp": "0x623EE4a7F290d11C11315994dB70FB148b13021d",
+    "icon1": "ftm",
+    "icon2": "ice",
+    "pid": 61,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "ZOO",
+    "token2": "FTM",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 18,
+    "lp": "0x3Cceb477Fcb6cDE90180983642486E68148D7b27",
+    "icon1": "zoo",
+    "icon2": "ftm",
+    "pid": 62,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "BNB",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 19,
+    "lp": "0x956DE13EA0FA5b577E4097Be837BF4aC80005820",
+    "icon1": "ftm",
+    "icon2": "bnb",
+    "pid": 63,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "WOOFY",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 20,
+    "lp": "0xfD0aB56B83130ce8f2b7A4f4d4532dEe495c0794",
+    "icon1": "ftm",
+    "icon2": "woofy",
+    "pid": 64,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "ANY",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 22,
+    "lp": "0x5c021D9cfaD40aaFC57786b409A9ce571de375b4",
+    "icon1": "ftm",
+    "icon2": "any",
+    "pid": 65,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "BIFI",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 23,
+    "lp": "0x1656728af3a14e1319F030Dc147fAbf6f627059e",
+    "icon1": "ftm",
+    "icon2": "bifi",
+    "pid": 66,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "MIM",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 24,
+    "lp": "0x6f86e65b255c9111109d2D2325ca2dFc82456efc",
+    "icon1": "ftm",
+    "icon2": "mim",
+    "pid": 67,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "KEK",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 25,
+    "lp": "0xf3582dbAEbb4287B462f00d308911621a960A5FD",
+    "icon1": "ftm",
+    "icon2": "kek",
+    "pid": 68,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "YFI",
+    "token2": "ETH",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 26,
+    "lp": "0x0845c0bFe75691B1e21b24351aAc581a7FB6b7Df",
+    "icon1": "yfi",
+    "icon2": "eth",
+    "pid": 69,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "SCREAM",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 28,
+    "lp": "0x30872e4fc4edbFD7a352bFC2463eb4fAe9C09086",
+    "icon1": "ftm",
+    "icon2": "scream",
+    "pid": 70,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "FOO",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 29,
+    "lp": "0x157f913Ed0961a8D0d06a258019840919111D9B9",
+    "icon1": "ftm",
+    "icon2": "foo",
+    "pid": 71,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "SHADE",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 32,
+    "lp": "0x20aa395F3bcc4dc44a94215D129650533B3da0b3",
+    "icon1": "ftm",
+    "icon2": "shade",
+    "pid": 72,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "USDC",
+    "token2": "WOO",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 33,
+    "lp": "0x7d4CdDAB6774Ff47D62253067958dbD749Cb7F06",
+    "icon1": "usdc",
+    "icon2": "woo",
+    "pid": 73,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "TREEB",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 34,
+    "lp": "0xe8b72a866b8D59F5c13D2ADEF96E40A3EF5b3152",
+    "icon1": "ftm",
+    "icon2": "treeb",
+    "pid": 74,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "BTC",
+    "token2": "ETH",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 35,
+    "lp": "0xEc454EdA10accdD66209C57aF8C12924556F3aBD",
+    "icon1": "btc",
+    "icon2": "eth",
+    "pid": 75,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "FTM",
+    "token2": "FONT",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 36,
+    "lp": "0x1C8D76074619BCA749b521343Ce16bb96d9F3614",
+    "icon1": "ftm",
+    "icon2": "font",
+    "pid": 76,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "token1": "LQDR",
+    "token2": "FTM",
+    "tokenPrefix": "Spooky LP",
+    "victimPID": 37,
+    "lp": "0x506DdcC751C7d500F983FfdA6DdEfbE458Ba2c33",
+    "icon1": "lqdr",
+    "icon2": "ftm",
+    "pid": 77,
+    "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+    "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+    "target": "spookyswap",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/SpookySwap.abi",
+      "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd"
+    }
+  },
+  {
+    "address": "0x27E611FD27b276ACbd5Ffd632E5eAEBEC9761E40",
+    "tokenPrefix": "Curve.fi Lp",
+    "token1": "2pool",
+    "token2": "",
+    "victimPID": 0,
+    "lp": "0x27E611FD27b276ACbd5Ffd632E5eAEBEC9761E40",
+    "icon1": "2pool",
+    "icon2": "",
+    "pid": 78,
+    "adapter": "0x75CbD57Fa14Bc2753D9DC56274Bb7489c00944Ef",
+    "delegate": "0xD0B46b05BE5513746bEC9FF51661ffbFF68E9020",
+    "target": "curve",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/UniPool.abi",
+      "address": "0x27E611FD27b276ACbd5Ffd632E5eAEBEC9761E40"
+    }
+  },
+  {
+    "address": "0x92D5ebF3593a92888C25C0AbEF126583d4b5312E",
+    "tokenPrefix": "Curve.fi Lp",
+    "token1": "fUSDT+DAI+USDC",
+    "token2": "",
+    "victimPID": 1,
+    "lp": "0x92D5ebF3593a92888C25C0AbEF126583d4b5312E",
+    "icon1": "fusdt+dai+usdc",
+    "icon2": "",
+    "pid": 79,
+    "adapter": "0x75CbD57Fa14Bc2753D9DC56274Bb7489c00944Ef",
+    "delegate": "0xD0B46b05BE5513746bEC9FF51661ffbFF68E9020",
+    "target": "curve",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/UniPool.abi",
+      "address": "0x92D5ebF3593a92888C25C0AbEF126583d4b5312E"
+    }
+  },
+  {
+    "address": "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858",
+    "tokenPrefix": "Curve.fi Lp",
+    "token1": "btcCRV",
+    "token2": "",
+    "victimPID": 2,
+    "lp": "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858",
+    "icon1": "btccrv",
+    "icon2": "",
+    "pid": 80,
+    "adapter": "0x75CbD57Fa14Bc2753D9DC56274Bb7489c00944Ef",
+    "delegate": "0xD0B46b05BE5513746bEC9FF51661ffbFF68E9020",
+    "target": "curve",
+    "network": "FTM",
+    "migrate": {
+      "abi": "./abi/UniPool.abi",
+      "address": "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858"
+    }
+  }
+]

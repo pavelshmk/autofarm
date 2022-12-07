@@ -1,0 +1,193 @@
+@import '../_mixins.scss';
+.connect_menu {
+      position: absolute;
+      width: 260px;
+      padding: 0;
+      top: 35px;
+      padding: 8px 0 !important;
+      background-color: #31314D;
+      border-radius: 12px;
+      z-index: 1600;
+      &.light {
+        background-color: white;
+        color: #1C1C34;
+
+      }
+
+      .connect_menu_el{
+        width: 100%;
+        padding: 8px 16px;
+        color: white;
+        cursor: pointer;
+        list-style-type: none;
+        font-weight: 700;
+        &.light {
+          background-color: white;
+          color: #1C1C34;
+          &:hover {
+            background-color: #F7F7FD;
+          
+          }
+        }
+       
+      }
+      .connect_menu_el:hover {
+          background-color: #28293F;
+        
+        }
+    }
+.acc_badge {
+  width: 260px;
+  height: 
+  48px;
+  background-color: #7379FF;
+  border-radius: 110px;
+  // @media (max-width:768px) {
+  //   width: 170px;
+  // }
+  // @include mobile {
+  //   transform: scale(0.85);
+  //   margin-right: -10px;
+  // }
+  .line {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100%;
+    padding-left: 2px;
+    padding-right: 2px;
+    .logout {
+      cursor: pointer;
+    }
+    
+    .inner-line {
+      width: 256px;
+      height: 44px;
+      background-color: #292942;
+      border-radius: 110px;
+      display: flex;
+      align-items: center;
+      padding-left: 4px;
+      &.light {
+        background-color: white;
+      }
+      .round {
+        display: flex;
+        margin-left: 14px;
+        border-radius: 100%;
+        width: 32px;
+        height:32px;
+        justify-content: center;
+        align-items: center;
+        // @media (max-width:768px) {
+        //   width: 22px;
+        // height:22px;
+        // margin-left: 4px;
+        // }
+        img {
+          width: 32px;
+          height:32px;
+        }
+      }
+      .address {
+        color: white;
+        font-size: 20px;
+        font-weight: 700;
+        margin-left: 12px;
+        display: flex;
+
+        &.light {
+          color: #1C1C34;
+        }
+        // @media (max-width:768px) {
+        //   font-size: 12px;
+        // }
+        .address_arrow {
+          margin-left: 13px;
+          cursor: pointer;
+        }
+      }
+    }
+  }
+}
+.logged-mobile {
+    display: none;
+    z-index: 170;
+    .change {
+      display: flex;
+      
+    }
+  .connect_wallet {
+    background-color: #7379FF;
+    height: 48px;
+    margin-right: 20px;
+    border:  2px solid #7379FF;
+    margin-bottom: 10px !important;
+    
+    padding: 0;
+ 
+    &:hover {
+      background-color: transparent;
+      .btn-text {
+      &.light{
+          color: black;
+        }
+      }
+    }
+
+  }
+  .connect_menu {
+    position: absolute;
+    width: 95%!important;
+    padding: 0;
+    top: 117px;
+    padding: 8px 0 !important;
+    background-color: #31314D;
+    border-radius: 12px;
+
+    &.light {
+      background-color: white;
+      color: #1C1C34;
+
+    }
+    @media (max-width:488px) {
+      width: 94%!important;
+    }
+    .connect_menu_el{
+      width: 100%;
+      padding: 8px 16px;
+      color: white;
+      cursor: pointer;
+      list-style-type: none;
+      
+      &.light {
+        background-color: white;
+        color: #1C1C34;
+        &:hover {
+          background-color: #F7F7FD;
+        
+        }
+      }
+     
+    }
+    .connect_menu_el:hover {
+        background-color: #28293F;
+      
+      }
+  }
+  .acc_badge {
+    width: 100%;
+  }
+  .inner-line {
+    width: 100%!important;
+    .address {
+      display: flex;
+      width: 100%;
+      padding-right: 21px;
+      justify-content: space-between;
+    } 
+  }
+  @media (max-width: 633px){
+    display: block;
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "header": {
+    "changeNetwork": "Пожалуйста измените сеть кошелька на {{name}}",
+    "connectWallet": "Подключить Кошелёк",
+    "slippageTolerance": "Допустимое проскальзывание",
+    "disconnect": "Отключить"
+  },
+  "main": {
+    "lpStaked": "Поставлено",
+    "oldApy": "Старый APY",
+    "newApy": "Новый APY",
+    "lpEarned": "Заработано",
+    "tvl": "TVL",
+    "apy": "APY",
+    "searchPlaceholder": "Введите название токена",
+    "victimTvl": "Исходный TVL",
+    "networkTitle": "Сеть",
+    "selectNetwork": "Выберите сеть",
+    "protocolTitle": "Протокол",
+    "allProtocols": "Все",
+    "sortByTitle": "Сортировать по",
+    "stakedOnly": "<1>Только</1><2>со ставкой</2>",
+    "yourOtherPools": "Ваши Другие Пулы",
+    "noLiquidity": "У вас нет ликвидности для миграции",
+    "activePools": "Активные Пулы",
+    "noResults": "Не найдено результатов для",
+    "toTop": "Наверх"
+  },
+  "modals": {
+    "connect": {
+      "title": "Подключить Кошелёк",
+      "noWallet": "Нет кошелька?",
+      "getWallet": "Заведи кошелёк!"
+    },
+    "migrate": {
+      "staked": "Поставлено",
+      "oldAPY": "Старый APY",
+      "migrate": "Миграция <1>{{token}}</1> из {{from}}",
+      "newAPY": "Новый APY",
+      "migrationProcess": "Процесс миграции",
+      "unstakeLP": "Снятие",
+      "approveLP": "Подтвердить",
+      "stakeLP": "Ставка",
+      "migrateBtn": "Мигрировать"
+    },
+    "token": {
+      "stakeSw": "Внести",
+      "unstakeSw": "Снять",
+      "staked": "Поставлено",
+      "earned": "Заработано",
+      "apy": "APY",
+      "unstakeTtl": "Снятие ставки",
+      "stakeTtl": "Внесение ставки",
+      "balance": "Баланс",
+      "unstakeBtn": "Снять ставку",
+      "approveBtn": "Подтвердить",
+      "stakeBtn": "Внести ставку"
+    }
+  },
+  "btn": {
+    "pending": "Ожидание",
+    "migrationComplete": "Миграция завершена",
+    "failed": "Неудача",
+    "success": "Успех",
+    "done": "Готово",
+    "retry":"Снова"
+  }
+}

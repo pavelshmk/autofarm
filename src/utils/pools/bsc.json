@@ -1,0 +1,1478 @@
+[
+    {
+        "token1": "Cake",
+        "token2": "",
+        "tokenPrefix": "PancakeSwap Token",
+        "victimPID": 7,
+        "lp": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "icon1": "cake",
+        "icon2": "",
+        "pid": 0,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "AUTO",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 6,
+        "lp": "0x4d0228EBEB39f6d2f29bA528e2d15Fc9121Ead56",
+        "icon1": "auto",
+        "icon2": "bnb",
+        "pid": 1,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "Cake",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 243,
+        "lp": "0x0eD7e52944161450477ee417DE9Cd3a859b14fD0",
+        "icon1": "cake",
+        "icon2": "bnb",
+        "pid": 2,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BNB",
+        "token2": "BUSD",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 244,
+        "lp": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16",
+        "icon1": "bnb",
+        "icon2": "busd",
+        "pid": 3,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 245,
+        "lp": "0x16b9a82891338f9bA80E2D6970FddA79D1eb0daE",
+        "icon1": "usdt",
+        "icon2": "bnb",
+        "pid": 4,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BTCB",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 246,
+        "lp": "0x61EB789d75A95CAa3fF50ed7E47b96c132fEc082",
+        "icon1": "btcb",
+        "icon2": "bnb",
+        "pid": 5,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 247,
+        "lp": "0x74E4716E431f45807DCF19f284c7aA99F18a4fbc",
+        "icon1": "eth",
+        "icon2": "bnb",
+        "pid": 6,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "BUSD",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 248,
+        "lp": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00",
+        "icon1": "usdt",
+        "icon2": "busd",
+        "pid": 7,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "VAI",
+        "token2": "BUSD",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 249,
+        "lp": "0x133ee93FE93320e1182923E1a640912eDE17C90C",
+        "icon1": "vai",
+        "icon2": "busd",
+        "pid": 8,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "DOT",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 250,
+        "lp": "0xDd5bAd8f8b360d76d12FdA230F8BAF42fe0022CF",
+        "icon1": "dot",
+        "icon2": "bnb",
+        "pid": 9,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BNB",
+        "token2": "LINK",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 251,
+        "lp": "0x824eb9faDFb377394430d2744fa7C42916DE3eCe",
+        "icon1": "bnb",
+        "icon2": "link",
+        "pid": 10,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BNB",
+        "token2": "UNI",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 252,
+        "lp": "0x014608E87AF97a054C9a49f81E1473076D51d9a3",
+        "icon1": "bnb",
+        "icon2": "uni",
+        "pid": 11,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "DODO",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 253,
+        "lp": "0xA9986Fcbdb23c2E8B11AB40102990a08f8E58f06",
+        "icon1": "dodo",
+        "icon2": "bnb",
+        "pid": 12,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "ALPHA",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 256,
+        "lp": "0xACF47CBEaab5c8A6Ee99263cfE43995f89fB3206",
+        "icon1": "alpha",
+        "icon2": "bnb",
+        "pid": 13,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "XRP",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 257,
+        "lp": "0x03F18135c44C64ebFdCBad8297fe5bDafdBbdd86",
+        "icon1": "xrp",
+        "icon2": "bnb",
+        "pid": 14,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "ADA",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 258,
+        "lp": "0x28415ff2C35b65B9E5c7de82126b4015ab9d031F",
+        "icon1": "ada",
+        "icon2": "bnb",
+        "pid": 15,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BAND",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 259,
+        "lp": "0x168B273278F3A8d302De5E879aA30690B7E6c28f",
+        "icon1": "band",
+        "icon2": "bnb",
+        "pid": 16,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BNB",
+        "token2": "XVS",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 261,
+        "lp": "0x7EB5D86FD78f3852a3e0e064f2842d45a3dB6EA2",
+        "icon1": "bnb",
+        "icon2": "xvs",
+        "pid": 17,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BNB",
+        "token2": "SFP",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 262,
+        "lp": "0x942b294e59a8c47a0F7F20DF105B082710F7C305",
+        "icon1": "bnb",
+        "icon2": "sfp",
+        "pid": 18,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "TWT",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 263,
+        "lp": "0x3DcB1787a95D2ea0Eb7d00887704EeBF0D79bb13",
+        "icon1": "twt",
+        "icon2": "bnb",
+        "pid": 19,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "SXP",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 264,
+        "lp": "0xD8E2F8b6Db204c405543953Ef6359912FE3A88d6",
+        "icon1": "sxp",
+        "icon2": "bnb",
+        "pid": 20,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "UST",
+        "token2": "BUSD",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 265,
+        "lp": "0x05faf555522Fa3F93959F86B41A3808666093210",
+        "icon1": "ust",
+        "icon2": "busd",
+        "pid": 21,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "INJ",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 270,
+        "lp": "0x1BdCebcA3b93af70b58C41272AEa2231754B23ca",
+        "icon1": "inj",
+        "icon2": "bnb",
+        "pid": 22,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BNB",
+        "token2": "REEF",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 271,
+        "lp": "0xd63b5CecB1f40d626307B92706Df357709D05827",
+        "icon1": "bnb",
+        "icon2": "reef",
+        "pid": 23,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BTCST",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 274,
+        "lp": "0xB2678C414ebC63c9CC6d1a0fC45f43E249B50fdE",
+        "icon1": "btcst",
+        "icon2": "bnb",
+        "pid": 24,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "FRONT",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 275,
+        "lp": "0xC6b668548aA4A56792e8002A920d3159728121D5",
+        "icon1": "front",
+        "icon2": "bnb",
+        "pid": 25,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "LINA",
+        "token2": "BUSD",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 281,
+        "lp": "0xC5768c5371568Cf1114cddD52CAeD163A42626Ed",
+        "icon1": "lina",
+        "icon2": "busd",
+        "pid": 26,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BEL",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 292,
+        "lp": "0x69DEE989c30b5fFe40867f5FC14F00E4bCE7B681",
+        "icon1": "bel",
+        "icon2": "bnb",
+        "pid": 27,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "ALICE",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 294,
+        "lp": "0xcAD7019D6d84a3294b0494aEF02e73BD0f2572Eb",
+        "icon1": "alice",
+        "icon2": "bnb",
+        "pid": 28,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BUSD",
+        "token2": "TPT",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 308,
+        "lp": "0x6D0c831254221ba121fB53fb44Df289A6558867d",
+        "icon1": "busd",
+        "icon2": "tpt",
+        "pid": 29,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "DEXE",
+        "token2": "BUSD",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 309,
+        "lp": "0x3578B1f9BCE98D2F4D293b422d8850fdf48B1f21",
+        "icon1": "dexe",
+        "icon2": "busd",
+        "pid": 30,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "RAMP",
+        "token2": "BUSD",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 310,
+        "lp": "0xE834bf723f5bDff34a5D1129F3c31Ea4787Bc76a",
+        "icon1": "ramp",
+        "icon2": "busd",
+        "pid": 31,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "TKO",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 319,
+        "lp": "0xFFd4B200d3C77A0B691B5562D804b3bd54294e6e",
+        "icon1": "tko",
+        "icon2": "bnb",
+        "pid": 32,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "ITAM",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 321,
+        "lp": "0xd02DA76c813b9cd4516eD50442923E625f90228f",
+        "icon1": "itam",
+        "icon2": "bnb",
+        "pid": 33,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "EPS",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 323,
+        "lp": "0xddE420cbB3794ebD8FFC3Ac69F9c78e5d1411870",
+        "icon1": "eps",
+        "icon2": "bnb",
+        "pid": 34,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "TLM",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 325,
+        "lp": "0xE6b421a4408c82381b226Ab5B6F8C4b639044359",
+        "icon1": "tlm",
+        "icon2": "bnb",
+        "pid": 35,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BNB",
+        "token2": "BELT",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 344,
+        "lp": "0xF3Bc6FC080ffCC30d93dF48BFA2aA14b869554bb",
+        "icon1": "bnb",
+        "icon2": "belt",
+        "pid": 36,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BTCB",
+        "token2": "BUSD",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 354,
+        "lp": "0xF45cd219aEF8618A92BAa7aD848364a158a24F33",
+        "icon1": "btcb",
+        "icon2": "busd",
+        "pid": 37,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "Cake",
+        "token2": "BUSD",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 381,
+        "lp": "0x804678fa97d91B974ec2af3c843270886528a9E6",
+        "icon1": "cake",
+        "icon2": "busd",
+        "pid": 38,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "HOTCROSS",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 399,
+        "lp": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+        "icon1": "hotcross",
+        "icon2": "bnb",
+        "pid": 39,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BUSD",
+        "token2": "CHR",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 401,
+        "lp": "0x6045931E511EF7e53A4A817F971e0CA28c758809",
+        "icon1": "busd",
+        "icon2": "chr",
+        "pid": 40,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "TUSD",
+        "token2": "BUSD",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 403,
+        "lp": "0x2E28b9B74D6d99D4697e913b82B41ef1CAC51c6C",
+        "icon1": "tusd",
+        "icon2": "busd",
+        "pid": 41,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "BTCB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 406,
+        "lp": "0xD171B26E4484402de70e3Ea256bE5A2630d7e88D",
+        "icon1": "eth",
+        "icon2": "btcb",
+        "pid": 42,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "USDC",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 407,
+        "lp": "0xEa26B78255Df2bBC31C1eBf60010D78670185bD0",
+        "icon1": "eth",
+        "icon2": "usdc",
+        "pid": 43,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "Cake",
+        "token2": "USDT",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 408,
+        "lp": "0xA39Af17CE4a8eb807E076805Da1e2B8EA7D0755b",
+        "icon1": "cake",
+        "icon2": "usdt",
+        "pid": 44,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "WOO",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 409,
+        "lp": "0x89eE0491CE55d2f7472A97602a95426216167189",
+        "icon1": "woo",
+        "icon2": "bnb",
+        "pid": 45,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "MBOX",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 411,
+        "lp": "0x8FA59693458289914dB0097F5F366d771B7a7C3F",
+        "icon1": "mbox",
+        "icon2": "bnb",
+        "pid": 46,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "ATA",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 412,
+        "lp": "0xeF7767677867552CFA699148b96a03358A9be779",
+        "icon1": "ata",
+        "icon2": "bnb",
+        "pid": 47,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "USDC",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 414,
+        "lp": "0xEc6557348085Aa57C72514D67070dC863C0a5A8c",
+        "icon1": "usdt",
+        "icon2": "usdc",
+        "pid": 48,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BTT",
+        "token2": "BUSD",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 417,
+        "lp": "0xdcfbB12DED3FEa12D2A078Bc6324131cD14bF835",
+        "icon1": "btt",
+        "icon2": "busd",
+        "pid": 49,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "TRX",
+        "token2": "BUSD",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 418,
+        "lp": "0xb5D108578Be3750209d1b3A8f45FFee8C5a75146",
+        "icon1": "trx",
+        "icon2": "busd",
+        "pid": 50,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "WIN",
+        "token2": "BUSD",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 419,
+        "lp": "0x6a445cEB72c8B1751755386c3990055ff92e14A0",
+        "icon1": "win",
+        "icon2": "busd",
+        "pid": 51,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "C98",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 426,
+        "lp": "0x92247860A03F48d5c6425c7CA35CDcFCB1013AA1",
+        "icon1": "c98",
+        "icon2": "bnb",
+        "pid": 52,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "AXS",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 427,
+        "lp": "0xC2d00De94795e60FB76Bc37d899170996cBdA436",
+        "icon1": "axs",
+        "icon2": "bnb",
+        "pid": 53,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "CHESS",
+        "token2": "USDC",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 430,
+        "lp": "0x1472976E0B97F5B2fC93f1FFF14e2b5C4447b64F",
+        "icon1": "chess",
+        "icon2": "usdc",
+        "pid": 54,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "ONE",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 433,
+        "lp": "0x9D2296e2Fe3CdBf2EB3e3e2CA8811BaFA42eeDFF",
+        "icon1": "one",
+        "icon2": "bnb",
+        "pid": 55,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BSCPAD",
+        "token2": "BNB",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 437,
+        "lp": "0xba01662E978DE7d67F8FfC937726215eb8995d17",
+        "icon1": "bscpad",
+        "icon2": "bnb",
+        "pid": 56,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BUSD",
+        "token2": "O3",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 446,
+        "lp": "0x7759283571Da8c0928786A96AE601944E10461Ff",
+        "icon1": "busd",
+        "icon2": "o3",
+        "pid": 57,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "ALPACA",
+        "token2": "BUSD",
+        "tokenPrefix": "Pancake LP",
+        "victimPID": 458,
+        "lp": "0x7752e1FA9F3a2e860856458517008558DEb989e3",
+        "icon1": "alpaca",
+        "icon2": "busd",
+        "pid": 58,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "MDX",
+        "token2": "BNB",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 127,
+        "lp": "0xAf9Aa53146C5752BF6068A84B970E9fBB22a87bc",
+        "icon1": "mdx",
+        "icon2": "bnb",
+        "pid": 59,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "MDX",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 128,
+        "lp": "0xe1cBe92b5375ee6AfE1B22b555D257B4357F6C68",
+        "icon1": "usdt",
+        "icon2": "mdx",
+        "pid": 60,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "BTCB",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 129,
+        "lp": "0xda28Eb7ABa389C1Ea226A420bCE04Cb565Aafb85",
+        "icon1": "usdt",
+        "icon2": "btcb",
+        "pid": 61,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "USDT",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 130,
+        "lp": "0x0FB881c078434b1C0E4d0B64d8c64d12078b7Ce2",
+        "icon1": "eth",
+        "icon2": "usdt",
+        "pid": 62,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "USDC",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 131,
+        "lp": "0x9f4Da89774570E27170873BefD139a79CB1A3da2",
+        "icon1": "usdt",
+        "icon2": "usdc",
+        "pid": 63,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "BUSD",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 132,
+        "lp": "0x62c1dEC1fF328DCdC157Ae0068Bb21aF3967aCd9",
+        "icon1": "usdt",
+        "icon2": "busd",
+        "pid": 64,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "BTCB",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 133,
+        "lp": "0x577d005912C49B1679B4c21E334FdB650E92C077",
+        "icon1": "eth",
+        "icon2": "btcb",
+        "pid": 65,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "MDX",
+        "token2": "BUSD",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 134,
+        "lp": "0x223740a259E461aBeE12D84A9FFF5Da69Ff071dD",
+        "icon1": "mdx",
+        "icon2": "busd",
+        "pid": 66,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "BNB",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 144,
+        "lp": "0x09CB618bf5eF305FadfD2C8fc0C26EeCf8c6D5fd",
+        "icon1": "usdt",
+        "icon2": "bnb",
+        "pid": 67,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BNB",
+        "token2": "BUSD",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 145,
+        "lp": "0x340192D37d95fB609874B1db6145ED26d1e47744",
+        "icon1": "bnb",
+        "icon2": "busd",
+        "pid": 68,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BTCB",
+        "token2": "BNB",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 146,
+        "lp": "0x969f2556F786a576F32AeF6c1D6618f0221Ec70e",
+        "icon1": "btcb",
+        "icon2": "bnb",
+        "pid": 69,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "BNB",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 147,
+        "lp": "0x82E8F9e7624fA038DfF4a39960F5197A43fa76aa",
+        "icon1": "eth",
+        "icon2": "bnb",
+        "pid": 70,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "DAI",
+        "token2": "USDT",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 150,
+        "lp": "0x59B76b5D39370ba2Aa7e723c639861266e85BFEc",
+        "icon1": "dai",
+        "icon2": "usdt",
+        "pid": 71,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "DOT",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 151,
+        "lp": "0xFf44e10662E1CD4f7AfE399144636c74B0D05D80",
+        "icon1": "usdt",
+        "icon2": "dot",
+        "pid": 72,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "ETH",
+        "token2": "BETH",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 157,
+        "lp": "0x3fe3DeE31cC404Aa4C8de6A6a3cbBcb60358FcB0",
+        "icon1": "eth",
+        "icon2": "beth",
+        "pid": 73,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "AUTO",
+        "token2": "BUSD",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 345,
+        "lp": "0x8fe32329C4dbE8d29B9c8874Ef0F52CcD8c7D3F0",
+        "icon1": "auto",
+        "icon2": "busd",
+        "pid": 74,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "SUSHI",
+        "token2": "BUSD",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 389,
+        "lp": "0x706937dC141231168Be1694d5ea9dCD04739Bb41",
+        "icon1": "sushi",
+        "icon2": "busd",
+        "pid": 75,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "BCH",
+        "token2": "BNB",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 392,
+        "lp": "0x6b35eb6CF670452Fa3Be8396b54678b1727aFA6b",
+        "icon1": "bch",
+        "icon2": "bnb",
+        "pid": 76,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "Cake",
+        "token2": "BNB",
+        "tokenPrefix": "MDEX LP",
+        "victimPID": 395,
+        "lp": "0xA13aFe2DF0fA0bb11F2aeAAAF98aC1D591E108d1",
+        "icon1": "cake",
+        "icon2": "bnb",
+        "pid": 77,
+        "adapter": "0x71E659e6A5A29103bBFD30FF0aE6BE1692C56732",
+        "delegate": "0x2Da114894015da355596BdC89BEf551d40C7bDbD",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "beltBNB",
+        "token2": "",
+        "tokenPrefix": "Belt.fi LP",
+        "victimPID": 338,
+        "lp": "0xa8Bb71facdd46445644C277F9499Dd22f6F0A30C",
+        "icon1": "beltbnb",
+        "icon2": "",
+        "pid": 78,
+        "adapter": "0x75CbD57Fa14Bc2753D9DC56274Bb7489c00944Ef",
+        "delegate": "0xD0B46b05BE5513746bEC9FF51661ffbFF68E9020",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "beltBTC",
+        "token2": "",
+        "tokenPrefix": "Belt.fi LP",
+        "victimPID": 339,
+        "lp": "0x51bd63F240fB13870550423D208452cA87c44444",
+        "icon1": "beltbtc",
+        "icon2": "",
+        "pid": 79,
+        "adapter": "0x75CbD57Fa14Bc2753D9DC56274Bb7489c00944Ef",
+        "delegate": "0xD0B46b05BE5513746bEC9FF51661ffbFF68E9020",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "beltETH",
+        "token2": "",
+        "tokenPrefix": "Belt.fi LP",
+        "victimPID": 340,
+        "lp": "0xAA20E8Cb61299df2357561C2AC2e1172bC68bc25",
+        "icon1": "belteth",
+        "icon2": "",
+        "pid": 80,
+        "adapter": "0x75CbD57Fa14Bc2753D9DC56274Bb7489c00944Ef",
+        "delegate": "0xD0B46b05BE5513746bEC9FF51661ffbFF68E9020",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    },
+    {
+        "token1": "4Belt",
+        "token2": "",
+        "tokenPrefix": "Belt.fi LP",
+        "victimPID": 341,
+        "lp": "0x9cb73F20164e399958261c289Eb5F9846f4D1404",
+        "icon1": "4belt",
+        "icon2": "",
+        "pid": 81,
+        "adapter": "0x75CbD57Fa14Bc2753D9DC56274Bb7489c00944Ef",
+        "delegate": "0xD0B46b05BE5513746bEC9FF51661ffbFF68E9020",
+        "target": "autofarm",
+        "network": "BSC",
+        "migrate": {
+            "abi": "./abi/AutoFarm.abi",
+            "address": "0x0895196562C7868C5Be92459FaE7f877ED450452"
+        }
+    }
+]

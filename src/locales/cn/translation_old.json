@@ -1,0 +1,8 @@
+{
+  "header": {
+    "transactionSpeed": "header::transactionSpeed",
+    "standardSpeed": "header::standardSpeed",
+    "fastSpeed": "header::fastSpeed",
+    "instantSpeed": "header::instantSpeed"
+  }
+}

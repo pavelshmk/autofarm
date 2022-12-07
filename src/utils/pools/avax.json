@@ -1,0 +1,1643 @@
+[
+    {
+        "token1": "JOE",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 0,
+        "lp": "0x454E67025631C065d3cFAD6d71E6892f74487a15",
+        "icon1": "joe",
+        "icon2": "avax",
+        "pid": 0,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "PNG",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 6,
+        "lp": "0x3dAF1C6268362214eBB064647555438c6f365F96",
+        "icon1": "png",
+        "icon2": "avax",
+        "pid": 1,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "AVAX",
+        "token2": "XAVA",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 7,
+        "lp": "0x72c3438cf1c915EcF5D9F17A6eD346B273d5bF71",
+        "icon1": "avax",
+        "icon2": "xava",
+        "pid": 2,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "AVAX",
+        "token2": "SNOB",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 8,
+        "lp": "0x8fB5bD3aC8eFD05DACae82F512dD03e14aAdAb73",
+        "icon1": "avax",
+        "icon2": "snob",
+        "pid": 3,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "AVAX",
+        "token2": "PEFI",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 9,
+        "lp": "0xb78c8238bD907c42BE45AeBdB4A8C8a5D7B49755",
+        "icon1": "avax",
+        "icon2": "pefi",
+        "pid": 4,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "VSO",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 11,
+        "lp": "0x00979Bd14bD5Eb5c456c5478d3BF4b6E9212bA7d",
+        "icon1": "vso",
+        "icon2": "avax",
+        "pid": 5,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "AVAX",
+        "token2": "ELK",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 12,
+        "lp": "0x88D000E853d03E7D59CE602dff736Dc39aD118fb",
+        "icon1": "avax",
+        "icon2": "elk",
+        "pid": 6,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "HUSKY",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 15,
+        "lp": "0x91B62FB52C9fdF27aD18BBe1c4a8fF52df6104CC",
+        "icon1": "husky",
+        "icon2": "avax",
+        "pid": 7,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "WET",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 22,
+        "lp": "0xEe25009C093A06896aCf29Cf93386EcC00b1714B",
+        "icon1": "wet",
+        "icon2": "avax",
+        "pid": 8,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "SHERPA",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 23,
+        "lp": "0xf0d7EC33147Ec3bEfd24B880472307bF3a01BB8A",
+        "icon1": "sherpa",
+        "icon2": "avax",
+        "pid": 9,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "xJOE",
+        "token2": "",
+        "tokenPrefix": "JoeBar",
+        "victimPID": 24,
+        "lp": "0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33",
+        "icon1": "xjoe",
+        "icon2": "",
+        "pid": 10,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "YAK",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 25,
+        "lp": "0xb5c9e891AF3063004a441BA4FaB4cA3D6DEb5626",
+        "icon1": "yak",
+        "icon2": "avax",
+        "pid": 11,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "WETH",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 26,
+        "lp": "0xFE15c2695F1F920da45C30AAE47d11dE51007AF9",
+        "icon1": "weth",
+        "icon2": "avax",
+        "pid": 12,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "WBTC",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 27,
+        "lp": "0xd5a37dC5C9A396A03dd1136Fc76A1a02B1c88Ffa",
+        "icon1": "wbtc",
+        "icon2": "avax",
+        "pid": 13,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "AVAX",
+        "token2": "USDT",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 28,
+        "lp": "0xeD8CBD9F0cE3C6986b22002F03c6475CEb7a6256",
+        "icon1": "avax",
+        "icon2": "usdt",
+        "pid": 14,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "LINK",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 29,
+        "lp": "0x6F3a0C89f611Ef5dC9d96650324ac633D02265D3",
+        "icon1": "link",
+        "icon2": "avax",
+        "pid": 15,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "JOE",
+        "token2": "USDT",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 30,
+        "lp": "0x1643de2efB8e35374D796297a9f95f64C082a8ce",
+        "icon1": "joe",
+        "icon2": "usdt",
+        "pid": 16,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "USDT",
+        "token2": "DAI",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 31,
+        "lp": "0xa6908C7E3Be8F4Cd2eB704B5cB73583eBF56Ee62",
+        "icon1": "usdt",
+        "icon2": "dai",
+        "pid": 17,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "WBTC",
+        "token2": "USDT",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 32,
+        "lp": "0xB8D5E8a9247db183847c7D79af9C67F6aeF759f7",
+        "icon1": "wbtc",
+        "icon2": "usdt",
+        "pid": 18,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "WETH",
+        "token2": "USDT",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 33,
+        "lp": "0xbe1b87f47fDE3F338Aa3AA98b85435e1709dFD06",
+        "icon1": "weth",
+        "icon2": "usdt",
+        "pid": 19,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "LINK",
+        "token2": "USDT",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 34,
+        "lp": "0x59E4e5501764a293B829902D9CF01967FA80eff2",
+        "icon1": "link",
+        "icon2": "usdt",
+        "pid": 20,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "JOEBORROW",
+        "token2": "",
+        "tokenPrefix": "Joe Borrow",
+        "victimPID": 35,
+        "lp": "0x2df7a0F6b9bFE921e59cEBB98d071612730F5273",
+        "icon1": "joeborrow",
+        "icon2": "",
+        "pid": 21,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "JOELEND",
+        "token2": "",
+        "tokenPrefix": "Joe Lend",
+        "victimPID": 36,
+        "lp": "0xBdBfA0e01642E09188f7a041f07c6b3c9d437Fdf",
+        "icon1": "joelend",
+        "icon2": "",
+        "pid": 22,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "AVAX",
+        "token2": "DAI",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 37,
+        "lp": "0x87Dee1cC9FFd464B79e058ba20387c1984aed86a",
+        "icon1": "avax",
+        "icon2": "dai",
+        "pid": 23,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 39,
+        "lp": "0xA389f9430876455C36478DeEa9769B7Ca4E3DDB1",
+        "icon1": "usdc",
+        "icon2": "avax",
+        "pid": 24,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "DAI",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 40,
+        "lp": "0x63ABE32d0Ee76C05a11838722A63e012008416E6",
+        "icon1": "usdc",
+        "icon2": "dai",
+        "pid": 25,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "QI",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 41,
+        "lp": "0x2774516897AC629aD3ED9dCac7e375Dda78412b9",
+        "icon1": "qi",
+        "icon2": "avax",
+        "pid": 26,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "ELE",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 42,
+        "lp": "0x0A6f6F504245BdC36b47d72d8718c09D6c0461de",
+        "icon1": "ele",
+        "icon2": "avax",
+        "pid": 27,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "MIM",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 43,
+        "lp": "0x781655d802670bbA3c89aeBaaEa59D3182fD755D",
+        "icon1": "mim",
+        "icon2": "avax",
+        "pid": 28,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "SYN",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 44,
+        "lp": "0x20ABdC20758990b6afc90dA2f2D30CD0aa3F73c6",
+        "icon1": "syn",
+        "icon2": "avax",
+        "pid": 29,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "AVAX",
+        "token2": "TIME",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 45,
+        "lp": "0xf64e1c5B6E17031f5504481Ac8145F4c3eab4917",
+        "icon1": "avax",
+        "icon2": "time",
+        "pid": 30,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "AVAX",
+        "token2": "FRAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 46,
+        "lp": "0x0d84595e8638dBc631076c51000B2d31120D8aa1",
+        "icon1": "avax",
+        "icon2": "frax",
+        "pid": 31,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "miMatic",
+        "token2": "USDC",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 47,
+        "lp": "0x58f75d7745ec383491053947Cd2AE6Ee7fc8B8f8",
+        "icon1": "mimatic",
+        "icon2": "usdc",
+        "pid": 32,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "AVAX",
+        "token2": "SPELL",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 48,
+        "lp": "0x62cf16BF2BC053E7102E2AC1DEE5029b94008d99",
+        "icon1": "avax",
+        "icon2": "spell",
+        "pid": 33,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "USDC",
+        "token2": "USDT",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 49,
+        "lp": "0x2E02539203256c83c7a9F6fA6f8608A32A2b1Ca2",
+        "icon1": "usdc",
+        "icon2": "usdt",
+        "pid": 34,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "GB",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 50,
+        "lp": "0x7EC396ecbe2186BC7d624527C776a66C55Aa86d6",
+        "icon1": "gb",
+        "icon2": "avax",
+        "pid": 35,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "AVAX",
+        "token2": "mYAK",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 51,
+        "lp": "0xAD3Afde5B6b8C353078Fd368f508C97d593353cc",
+        "icon1": "avax",
+        "icon2": "myak",
+        "pid": 36,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "BNB",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 52,
+        "lp": "0xeb8eB6300c53C3AddBb7382Ff6c6FbC4165B0742",
+        "icon1": "bnb",
+        "icon2": "avax",
+        "pid": 37,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "AVAX",
+        "token2": "BIFI",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 53,
+        "lp": "0x361221991B3B6282fF3a62Bc874d018bfAF1f8C8",
+        "icon1": "avax",
+        "icon2": "bifi",
+        "pid": 38,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "WBTC",
+        "token2": "USDC",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 54,
+        "lp": "0x62475f52aDd016A06B398aA3b2C2f2E540d36859",
+        "icon1": "wbtc",
+        "icon2": "usdc",
+        "pid": 39,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "WETH",
+        "token2": "USDC",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 55,
+        "lp": "0x199fb78019A08af2Cb6a078409D0C8233Eba8a0c",
+        "icon1": "weth",
+        "icon2": "usdc",
+        "pid": 40,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "LINK",
+        "token2": "USDC",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 56,
+        "lp": "0xb9f425bC9AF072a91c423e31e9eb7e04F226B39D",
+        "icon1": "link",
+        "icon2": "usdc",
+        "pid": 41,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "miMatic",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 57,
+        "lp": "0xD6d03fe131dB3dE3aF5E6326036BaC4C1Cf8C80d",
+        "icon1": "mimatic",
+        "icon2": "avax",
+        "pid": 42,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "JOE",
+        "token2": "USDC",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 58,
+        "lp": "0x67926d973cD8eE876aD210fAaf7DFfA99E414aCf",
+        "icon1": "joe",
+        "icon2": "usdc",
+        "pid": 43,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "RELAY",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 59,
+        "lp": "0x41f3092d6Dd8dB25ec0f7395F56CAc107EcB7A12",
+        "icon1": "relay",
+        "icon2": "avax",
+        "pid": 44,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "AVAX",
+        "token2": "CHART",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 60,
+        "lp": "0x8724a15D8B760BB72545488429A4032228382BDa",
+        "icon1": "avax",
+        "icon2": "chart",
+        "pid": 45,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "KLO",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 61,
+        "lp": "0xb2fF0817ad078C92C3AfB82326592e06C92581B8",
+        "icon1": "klo",
+        "icon2": "avax",
+        "pid": 46,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "AAVE",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 62,
+        "lp": "0xc3e6D9f7a3A5E3e223356383C7C055Ee3F26A34F",
+        "icon1": "aave",
+        "icon2": "avax",
+        "pid": 47,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "TSD",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 63,
+        "lp": "0x2d16af2D7f1edB4bC5DBAdF3ffF04670B4BcD0BB",
+        "icon1": "tsd",
+        "icon2": "avax",
+        "pid": 48,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "token1": "TEDDY",
+        "token2": "AVAX",
+        "tokenPrefix": "Joe LP",
+        "victimPID": 64,
+        "lp": "0x91f0963873bbcA2e58d21bB0941c0D859Db3ca31",
+        "icon1": "teddy",
+        "icon2": "avax",
+        "pid": 49,
+        "adapter": "0x3D5Eef6Ce013770dA3f01a18944FD0fE35D0fDeC",
+        "delegate": "0xA12824E5Ff914c884668A0e62E69dECF3391E563",
+        "target": "traderjoe",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/TraderJoe.abi",
+            "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
+        }
+    },
+    {
+        "address": "0x574d3245e36Cf8C9dc86430EaDb0fDB2F385F829",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "PNG",
+        "token2": "AVAX",
+        "victimPID": 0,
+        "lp": "0xd7538cABBf8605BdE1f4901B47B8D42c61DE0367",
+        "icon1": "png",
+        "icon2": "avax",
+        "pid": 50,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x574d3245e36Cf8C9dc86430EaDb0fDB2F385F829"
+        }
+    },
+    {
+        "address": "0x830A966B9B447c9B15aB24c0369c4018E75F31C9",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "WETH",
+        "token2": "AVAX",
+        "victimPID": 1,
+        "lp": "0x7c05d54fc5CB6e4Ad87c6f5db3b807C94bB89c52",
+        "icon1": "weth",
+        "icon2": "avax",
+        "pid": 51,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x830A966B9B447c9B15aB24c0369c4018E75F31C9"
+        }
+    },
+    {
+        "address": "0x006cC053bdb84C2d6380B3C4a573d84636378A47",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "AVAX",
+        "token2": "USDT",
+        "victimPID": 2,
+        "lp": "0xe28984e1EE8D431346D32BeC9Ec800Efb643eef4",
+        "icon1": "avax",
+        "icon2": "usdt",
+        "pid": 52,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x006cC053bdb84C2d6380B3C4a573d84636378A47"
+        }
+    },
+    {
+        "address": "0x30CbF11f6fcc9FC1bF6E55A6941b1A47A56eAEC5",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "WBTC",
+        "token2": "AVAX",
+        "victimPID": 3,
+        "lp": "0x5764b8D8039C6E32f1e5d8DE8Da05DdF974EF5D3",
+        "icon1": "wbtc",
+        "icon2": "avax",
+        "pid": 53,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x30CbF11f6fcc9FC1bF6E55A6941b1A47A56eAEC5"
+        }
+    },
+    {
+        "address": "0x2e10D9d08f76807eFdB6903025DE8e006b1185F5",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "LINK",
+        "token2": "AVAX",
+        "victimPID": 4,
+        "lp": "0x5875c368Cddd5FB9Bf2f410666ca5aad236DAbD4",
+        "icon1": "link",
+        "icon2": "avax",
+        "pid": 54,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x2e10D9d08f76807eFdB6903025DE8e006b1185F5"
+        }
+    },
+    {
+        "address": "0x63A84F66b8c90841Cb930F2dC3D28799F0c6657B",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "AVAX",
+        "token2": "DAI",
+        "victimPID": 5,
+        "lp": "0xbA09679Ab223C6bdaf44D45Ba2d7279959289AB0",
+        "icon1": "avax",
+        "icon2": "dai",
+        "pid": 55,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x63A84F66b8c90841Cb930F2dC3D28799F0c6657B"
+        }
+    },
+    {
+        "address": "0x6E36A71c1A211f01Ff848C1319D4e34BB5483224",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "UNI",
+        "token2": "AVAX",
+        "victimPID": 6,
+        "lp": "0x99dD520748eB0355c69DAE2692E4615C8Ab031ce",
+        "icon1": "uni",
+        "icon2": "avax",
+        "pid": 56,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x6E36A71c1A211f01Ff848C1319D4e34BB5483224"
+        }
+    },
+    {
+        "address": "0x2D55341f2abbb5472020e2d556a4f6B951C8Fa22",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "SUSHI",
+        "token2": "AVAX",
+        "victimPID": 7,
+        "lp": "0xF62381AFFdfd27Dba91A1Ea2aCf57d426E28c341",
+        "icon1": "sushi",
+        "icon2": "avax",
+        "pid": 57,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x2D55341f2abbb5472020e2d556a4f6B951C8Fa22"
+        }
+    },
+    {
+        "address": "0xa04fCcE7955312709c838982ad0E297375002C32",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "AAVE",
+        "token2": "AVAX",
+        "victimPID": 8,
+        "lp": "0x5944f135e4F1E3fA2E5550d4B5170783868cc4fE",
+        "icon1": "aave",
+        "icon2": "avax",
+        "pid": 58,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0xa04fCcE7955312709c838982ad0E297375002C32"
+        }
+    },
+    {
+        "address": "0x642c5B7AC22f56A0eF87930a89f0980FcA904B03",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "YFI",
+        "token2": "AVAX",
+        "victimPID": 9,
+        "lp": "0x9a634CE657681200B8c5fb3Fa1aC59Eb0662f45C",
+        "icon1": "yfi",
+        "icon2": "avax",
+        "pid": 59,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x642c5B7AC22f56A0eF87930a89f0980FcA904B03"
+        }
+    },
+    {
+        "address": "0x640D754113A3CBDd80BcCc1b5c0387148EEbf2fE",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "AVAX",
+        "token2": "SNOB",
+        "victimPID": 10,
+        "lp": "0xa1C2c3B6b120cBd4Cec7D2371FFd4a931A134A32",
+        "icon1": "avax",
+        "icon2": "snob",
+        "pid": 60,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x640D754113A3CBDd80BcCc1b5c0387148EEbf2fE"
+        }
+    },
+    {
+        "address": "0xf2b788085592380bfCAc40Ac5E0d10D9d0b54eEe",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "VSO",
+        "token2": "AVAX",
+        "victimPID": 11,
+        "lp": "0x2b532bC0aFAe65dA57eccFB14ff46d16a12de5E6",
+        "icon1": "vso",
+        "icon2": "avax",
+        "pid": 61,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0xf2b788085592380bfCAc40Ac5E0d10D9d0b54eEe"
+        }
+    },
+    {
+        "address": "0xd3e5538A049FcFcb8dF559B85B352302fEfB8d7C",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "SPORE",
+        "token2": "AVAX",
+        "victimPID": 12,
+        "lp": "0x0a63179a8838b5729E79D239940d7e29e40A0116",
+        "icon1": "spore",
+        "icon2": "avax",
+        "pid": 62,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0xd3e5538A049FcFcb8dF559B85B352302fEfB8d7C"
+        }
+    },
+    {
+        "address": "0x4E258f7ec60234bb6f3Ea7eCFf5931901182Bd6E",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "AVAX",
+        "token2": "BIFI",
+        "victimPID": 13,
+        "lp": "0xAaCE68f9C8506610929D76a0729c7C24603641fC",
+        "icon1": "avax",
+        "icon2": "bifi",
+        "pid": 63,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x4E258f7ec60234bb6f3Ea7eCFf5931901182Bd6E"
+        }
+    },
+    {
+        "address": "0x21CCa1672E95996413046077B8cf1E52F080A165",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "BNB",
+        "token2": "AVAX",
+        "victimPID": 14,
+        "lp": "0xF776Ef63c2E7A81d03e2c67673fd5dcf53231A3f",
+        "icon1": "bnb",
+        "icon2": "avax",
+        "pid": 64,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x21CCa1672E95996413046077B8cf1E52F080A165"
+        }
+    },
+    {
+        "address": "0x4219330Af5368378D5ffd869a55f5F2a26aB898c",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "AVAX",
+        "token2": "XAVA",
+        "victimPID": 15,
+        "lp": "0x42152bDD72dE8d6767FE3B4E17a221D6985E8B25",
+        "icon1": "avax",
+        "icon2": "xava",
+        "pid": 65,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x4219330Af5368378D5ffd869a55f5F2a26aB898c"
+        }
+    },
+    {
+        "address": "0xd7EDBb1005ec65721a3976Dba996AdC6e02dc9bA",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "AVAX",
+        "token2": "PEFI",
+        "victimPID": 16,
+        "lp": "0x494Dd9f783dAF777D3fb4303da4de795953592d0",
+        "icon1": "avax",
+        "icon2": "pefi",
+        "pid": 66,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0xd7EDBb1005ec65721a3976Dba996AdC6e02dc9bA"
+        }
+    },
+    {
+        "address": "0x079a479e270E72A1899239570912358C6BC22d94",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "TRYB",
+        "token2": "AVAX",
+        "victimPID": 17,
+        "lp": "0x6b41673fEff1bf0b55Ba2C9F4bf213b2bE8F474D",
+        "icon1": "tryb",
+        "icon2": "avax",
+        "pid": 67,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x079a479e270E72A1899239570912358C6BC22d94"
+        }
+    },
+    {
+        "address": "0x99918c92655D6f8537588210cD3Ddd52312CB36d",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "SHERPA",
+        "token2": "AVAX",
+        "victimPID": 18,
+        "lp": "0xD27688e195B5495a0eA29Bb6e9248E535A58511e",
+        "icon1": "sherpa",
+        "icon2": "avax",
+        "pid": 68,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x99918c92655D6f8537588210cD3Ddd52312CB36d"
+        }
+    },
+    {
+        "address": "0xb600429CCD364F1727F91FC0E75D67d65D0ee4c5",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "YAK",
+        "token2": "AVAX",
+        "victimPID": 19,
+        "lp": "0xd2F01cd87A43962fD93C21e07c1a420714Cc94C9",
+        "icon1": "yak",
+        "icon2": "avax",
+        "pid": 69,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0xb600429CCD364F1727F91FC0E75D67d65D0ee4c5"
+        }
+    },
+    {
+        "address": "0x03a9091620CACeE4968c915232B175C16a584733",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "WETH",
+        "token2": "PNG",
+        "victimPID": 20,
+        "lp": "0xcf35400A595EFCF0Af591D3Aeb5a35cBCD120d54",
+        "icon1": "weth",
+        "icon2": "png",
+        "pid": 70,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x03a9091620CACeE4968c915232B175C16a584733"
+        }
+    },
+    {
+        "address": "0x7216d1e173c1f1Ed990239d5c77d74714a837Cd5",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "PNG",
+        "token2": "USDT",
+        "victimPID": 21,
+        "lp": "0x1fFB6ffC629f5D820DCf578409c2d26A2998a140",
+        "icon1": "png",
+        "icon2": "usdt",
+        "pid": 71,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x7216d1e173c1f1Ed990239d5c77d74714a837Cd5"
+        }
+    },
+    {
+        "address": "0xEeEA1e815f12d344b5035a33da4bc383365F5Fee",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "WBTC",
+        "token2": "PNG",
+        "victimPID": 22,
+        "lp": "0xf277e270bc7664E6EBba19620530b83883748a13",
+        "icon1": "wbtc",
+        "icon2": "png",
+        "pid": 72,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0xEeEA1e815f12d344b5035a33da4bc383365F5Fee"
+        }
+    },
+    {
+        "address": "0x4B283e4211B3fAa525846d21869925e78f93f189",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "LINK",
+        "token2": "PNG",
+        "victimPID": 23,
+        "lp": "0x340d732f44E2Fb8D08719883f1C2ae088EB11682",
+        "icon1": "link",
+        "icon2": "png",
+        "pid": 73,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x4B283e4211B3fAa525846d21869925e78f93f189"
+        }
+    },
+    {
+        "address": "0xF344611DD94099708e508C2Deb16628578940d77",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "PNG",
+        "token2": "DAI",
+        "victimPID": 24,
+        "lp": "0x603efefc3ed65e3F5b6730c603B0cfB4426E0f4f",
+        "icon1": "png",
+        "icon2": "dai",
+        "pid": 74,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0xF344611DD94099708e508C2Deb16628578940d77"
+        }
+    },
+    {
+        "address": "0xD4E49A8Ec23daB51ACa459D233e9447DE03AFd29",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "PNG",
+        "token2": "UNI",
+        "victimPID": 25,
+        "lp": "0x792828974273725A7027da1C2341f4162e17174b",
+        "icon1": "png",
+        "icon2": "uni",
+        "pid": 75,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0xD4E49A8Ec23daB51ACa459D233e9447DE03AFd29"
+        }
+    },
+    {
+        "address": "0x923E69322Bea5e22799a29Dcfc9c616F3B5cF95b",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "SUSHI",
+        "token2": "PNG",
+        "victimPID": 26,
+        "lp": "0xd71a0530b9396d169CF6E48f9e6d72b9594859Ed",
+        "icon1": "sushi",
+        "icon2": "png",
+        "pid": 76,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x923E69322Bea5e22799a29Dcfc9c616F3B5cF95b"
+        }
+    },
+    {
+        "address": "0x3F91756D773A1455A7a1A70f5d9239F1B1d1f095",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "PNG",
+        "token2": "AAVE",
+        "victimPID": 27,
+        "lp": "0x11Bc32032002146Cb65Ab391dF5B51682A8d7885",
+        "icon1": "png",
+        "icon2": "aave",
+        "pid": 77,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x3F91756D773A1455A7a1A70f5d9239F1B1d1f095"
+        }
+    },
+    {
+        "address": "0x269Ed6B2040f965D9600D0859F36951cB9F01460",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "PNG",
+        "token2": "YFI",
+        "victimPID": 28,
+        "lp": "0x32Db611163CB2243E43d61D7721EBAa0226e8e08",
+        "icon1": "png",
+        "icon2": "yfi",
+        "pid": 78,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x269Ed6B2040f965D9600D0859F36951cB9F01460"
+        }
+    },
+    {
+        "address": "0x08B9A023e34Bad6Db868B699fa642Bf5f12Ebe76",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "PNG",
+        "token2": "SNOB",
+        "victimPID": 29,
+        "lp": "0x97B4957df08E185502A0ac624F332c7f8967eE8D",
+        "icon1": "png",
+        "icon2": "snob",
+        "pid": 79,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x08B9A023e34Bad6Db868B699fa642Bf5f12Ebe76"
+        }
+    },
+    {
+        "address": "0x759ee0072901f409e4959E00b00a16FD729397eC",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "PNG",
+        "token2": "VSO",
+        "victimPID": 30,
+        "lp": "0x9D472e21f6589380B21C42674B3585C47b74c891",
+        "icon1": "png",
+        "icon2": "vso",
+        "pid": 80,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x759ee0072901f409e4959E00b00a16FD729397eC"
+        }
+    },
+    {
+        "address": "0x12A33F6B0dd0D35279D402aB61587fE7eB23f7b0",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "PNG",
+        "token2": "SPORE",
+        "victimPID": 31,
+        "lp": "0xad24a72ffE0466399e6F69b9332022a71408f10b",
+        "icon1": "png",
+        "icon2": "spore",
+        "pid": 81,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x12A33F6B0dd0D35279D402aB61587fE7eB23f7b0"
+        }
+    },
+    {
+        "address": "0x518B07E2d9e08A8c2e3cB7704336520827a4d399",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "PNG",
+        "token2": "BIFI",
+        "victimPID": 32,
+        "lp": "0x7D1F298D41A03eda3AD9CbB06CA061Ba60b4BdAe",
+        "icon1": "png",
+        "icon2": "bifi",
+        "pid": 82,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x518B07E2d9e08A8c2e3cB7704336520827a4d399"
+        }
+    },
+    {
+        "address": "0x68a90C38bF4f90AC2a870d6FcA5b0A5A218763AD",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "BNB",
+        "token2": "PNG",
+        "victimPID": 33,
+        "lp": "0x76BC30aCdC88b2aD2e8A5377e59ed88c7f9287f9",
+        "icon1": "bnb",
+        "icon2": "png",
+        "pid": 83,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x68a90C38bF4f90AC2a870d6FcA5b0A5A218763AD"
+        }
+    },
+    {
+        "address": "0x5b3Ed7f47D1d4FA22b559D043a09d78bc55A94E9",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "PNG",
+        "token2": "XAVA",
+        "victimPID": 34,
+        "lp": "0x851D47BE09BD0D3c2B24922e34a4f8AE05456924",
+        "icon1": "png",
+        "icon2": "xava",
+        "pid": 84,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x5b3Ed7f47D1d4FA22b559D043a09d78bc55A94E9"
+        }
+    },
+    {
+        "address": "0x76e404Ab7357fD97d4f1e8Dd52f298A035fd408c",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "PNG",
+        "token2": "PEFI",
+        "victimPID": 35,
+        "lp": "0x1bb5541EcCdA68A352649954D4C8eCe6aD68338d",
+        "icon1": "png",
+        "icon2": "pefi",
+        "pid": 85,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x76e404Ab7357fD97d4f1e8Dd52f298A035fd408c"
+        }
+    },
+    {
+        "address": "0x0A9773AEbc1429d860A492d70c8EA335fAa9F19f",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "TRYB",
+        "token2": "PNG",
+        "victimPID": 36,
+        "lp": "0x471163B54b5db0497cd9eAFCb1b53CC569d71B76",
+        "icon1": "tryb",
+        "icon2": "png",
+        "pid": 86,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x0A9773AEbc1429d860A492d70c8EA335fAa9F19f"
+        }
+    },
+    {
+        "address": "0x80E919784e7c5AD3Dd59cAfCDC0e9C079B65f262",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "PNG",
+        "token2": "SHERPA",
+        "victimPID": 37,
+        "lp": "0x3DCC9711558115bFB73db19E8326cD717F6E5540",
+        "icon1": "png",
+        "icon2": "sherpa",
+        "pid": 87,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x80E919784e7c5AD3Dd59cAfCDC0e9C079B65f262"
+        }
+    },
+    {
+        "address": "0x42ff9473a5AEa00dE39355e0288c7A151EB00B6e",
+        "tokenPrefix": "Pangolin Lp",
+        "token1": "YAK",
+        "token2": "PNG",
+        "victimPID": 38,
+        "lp": "0x42c45fE57927AB94f5BA5484483B67184aA82e5d",
+        "icon1": "yak",
+        "icon2": "png",
+        "pid": 88,
+        "adapter": "0xf2df2E08107043D2Bb273c480f76Dd5A06E77695",
+        "delegate": "0xbDFd9b69C0e3420b506Fc61c2778DDcB2634C06E",
+        "target": "pangolin",
+        "network": "Avalanche",
+        "migrate": {
+            "abi": "./abi/UniPool.abi",
+            "address": "0x42ff9473a5AEa00dE39355e0288c7A151EB00B6e"
+        }
+    }
+]

@@ -1,0 +1,27 @@
+.value-loader.loading
+  max-height: 40px
+  padding: 2px 5px
+  border-radius: 5px
+  animation: value-loader-bg 3s ease infinite
+  color: transparent !important
+  *
+    color: transparent !important
+  &.dark
+    animation-name: value-loader-bg-dark
+
+@keyframes value-loader-bg-dark
+  from
+    background: #3B315C
+  50%
+    background: #443A65
+  to
+    background: #3B315C
+
+
+@keyframes value-loader-bg
+  from
+    background: #F5F5FB
+  50%
+    background: #ECECF2
+  to
+    background: #F5F5FB
